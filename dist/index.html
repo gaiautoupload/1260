@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#07131f">
+  <meta name="description" content="宏遠 1260 分點核心持股、每日與多週期買賣及加減碼追蹤">
+  <title>宏遠 1260｜分點資金雷達</title>
+  <link rel="stylesheet" href="./assets/app.css">
+</head>
+<body>
+  <main class="shell">
+    <header>
+      <div class="brand"><i></i><span>HORIZON FLOW</span></div>
+      <div class="fresh" id="fresh">資料載入中</div>
+    </header>
+    <section class="hero">
+      <div><p>興櫃分點行為追蹤</p><h1>宏遠 <b>1260</b></h1><span>核心持股與資金動作，一眼辨識新建倉、加碼與減碼。</span></div>
+      <div class="threshold"><small>20 日承諾門檻</small><strong id="threshold">—</strong><em>只用校準期資料設定</em></div>
+    </section>
+    <section class="summary" id="summary"></section>
+    <section class="panel core">
+      <div class="panel-head"><div><p>CORE POSITIONS</p><h2>主要核心股票</h2></div><span>依承諾、留存與資金規模排序</span></div>
+      <div class="filters" id="actions">
+        <button class="active" data-action="all">全部</button><button data-action="new">新建倉</button><button data-action="add">加碼</button><button data-action="trim,reduce">減碼</button><button data-action="hold">持有</button>
+      </div>
+      <div class="cards" id="core-list"></div>
+      <p class="none" id="empty" hidden>這個分類目前沒有股票。</p>
+    </section>
+    <section class="panel flows">
+      <div class="panel-head"><div><p>MULTI-PERIOD FLOW</p><h2>買賣超排行</h2></div><span id="period-label">每日</span></div>
+      <div class="filters" id="periods"><button class="active" data-period="1">每日</button><button data-period="5">5 日</button><button data-period="10">10 日</button><button data-period="20">20 日</button></div>
+      <div class="split"><div><h3>買超</h3><div id="buyers"></div></div><div><h3>賣超</h3><div id="sellers"></div></div></div>
+    </section>
+    <footer><p id="method"></p><span>行為連結不代表共同實益所有權；本頁為研究工具，不構成投資建議。</span></footer>
+  </main>
+  <script src="./assets/app.js" defer></script>
+</body>
+</html>
