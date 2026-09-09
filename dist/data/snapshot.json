@@ -6,6 +6,13 @@
     "code": "1260"
   },
   "threshold": 3700000.0,
+  "portfolio_totals": {
+    "stock_count": 190,
+    "inventory_shares": 12764640.0,
+    "inventory_lots": 12764.64,
+    "market_value": 1543943290.4,
+    "rolling_20d_net_invested": 370508812.98
+  },
   "core_stocks": [
     {
       "stock_id": "7932",
