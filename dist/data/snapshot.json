@@ -2636,7 +2636,7 @@
             "date": "20220929",
             "side": "add",
             "label": "重大加碼",
-            "net_amount": 3870000.0000000005,
+            "net_amount": 3870000.000000001,
             "net_lots": 100.0,
             "event_close": 39.0,
             "inventory_retention": 1.0,
