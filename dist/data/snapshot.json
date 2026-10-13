@@ -1,5 +1,5 @@
 {
-  "as_of": "20261012",
+  "as_of": "20261013",
   "broker": {
     "alias": "R00",
     "public_name": "宏遠",
@@ -8,34 +8,34 @@
   "threshold": 3700000.0,
   "portfolio_totals": {
     "stock_count": 188,
-    "inventory_shares": 12709660.0,
-    "inventory_lots": 12709.66,
-    "market_value": 1368051677.47,
-    "rolling_20d_net_invested": 31708905.950000003
+    "inventory_shares": 12467038.0,
+    "inventory_lots": 12467.038,
+    "market_value": 1312704894.8999999,
+    "rolling_20d_net_invested": 33120407.730000004
   },
   "core_stocks": [
     {
       "stock_id": "7815",
       "stock_name": "新特",
-      "close": 388.5,
-      "action_code": "hold",
-      "action_label": "持有觀察",
+      "close": 378.0,
+      "action_code": "trim",
+      "action_label": "減碼（庫存仍穩）",
       "core_score": 99.6,
-      "inventory": 418140.0,
-      "inventory_retention": 0.9881835799,
-      "market_value": 162447390.0,
+      "inventory": 417140.0,
+      "inventory_retention": 0.9858202959,
+      "market_value": 157678920.0,
       "rolling_buy": 45676000.0,
-      "rolling_net": 39461500.0,
-      "capital_retention": 0.8639438655,
+      "rolling_net": 39091500.0,
+      "capital_retention": 0.8558433313,
       "commitment_ratio": 12.3448648649,
-      "net_amount_1": 0.0,
-      "net_amount_5": -2164000.0,
-      "net_amount_10": 7116500.0,
-      "net_amount_20": 39461500.0,
-      "net_vol_1": 0.0,
-      "net_vol_5": -5000.0,
-      "net_vol_10": 17000.0,
-      "net_vol_20": 116000.0,
+      "net_amount_1": -370000.0,
+      "net_amount_5": -812500.0,
+      "net_amount_10": 6342000.0,
+      "net_amount_20": 39091500.0,
+      "net_vol_1": -1000.0,
+      "net_vol_5": -2000.0,
+      "net_vol_10": 15000.0,
+      "net_vol_20": 115000.0,
       "position_analysis": {
         "build_date": "20260424",
         "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
@@ -217,25 +217,25 @@
     {
       "stock_id": "3595",
       "stock_name": "山太士",
-      "close": 1395.0,
-      "action_code": "hold",
-      "action_label": "持有觀察",
+      "close": 1310.0,
+      "action_code": "add",
+      "action_label": "加碼",
       "core_score": 95.6,
-      "inventory": 119752.0,
-      "inventory_retention": 0.9510391766,
-      "market_value": 167054040.0,
-      "rolling_buy": 46366595.0,
-      "rolling_net": 33401195.0,
-      "capital_retention": 0.7203719618,
-      "commitment_ratio": 12.5315121622,
-      "net_amount_1": 0.0,
-      "net_amount_5": 140205.0,
-      "net_amount_10": -9046350.0,
-      "net_amount_20": 33401195.0,
-      "net_vol_1": 0.0,
-      "net_vol_5": 100.0,
-      "net_vol_10": -6054.0,
-      "net_vol_20": 25561.0,
+      "inventory": 119754.0,
+      "inventory_retention": 0.9510550601,
+      "market_value": 156877740.0,
+      "rolling_buy": 46361510.0,
+      "rolling_net": 33396110.0,
+      "capital_retention": 0.7203412917,
+      "commitment_ratio": 12.5301378378,
+      "net_amount_1": 2590.0,
+      "net_amount_5": 1795.0,
+      "net_amount_10": -9211330.0,
+      "net_amount_20": 33396110.0,
+      "net_vol_1": 2.0,
+      "net_vol_5": 2.0,
+      "net_vol_10": -6163.0,
+      "net_vol_20": 25558.0,
       "position_analysis": {
         "build_date": "20251014",
         "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
@@ -417,25 +417,25 @@
     {
       "stock_id": "7932",
       "stock_name": "昱鐳應材",
-      "close": 414.5,
-      "action_code": "trim",
-      "action_label": "減碼（庫存仍穩）",
+      "close": 389.5,
+      "action_code": "hold",
+      "action_label": "持有觀察",
       "core_score": 49.4,
       "inventory": 641270.0,
       "inventory_retention": 0.8636051444,
-      "market_value": 265806415.0,
+      "market_value": 249774665.0,
       "rolling_buy": 21742145.0,
-      "rolling_net": -21076030.0,
+      "rolling_net": -21048530.0,
       "capital_retention": 0.0,
       "commitment_ratio": 5.8762554054,
-      "net_amount_1": -4012500.0,
-      "net_amount_5": -25031965.0,
+      "net_amount_1": 0.0,
+      "net_amount_5": -22718465.0,
       "net_amount_10": -42762215.0,
-      "net_amount_20": -21076030.0,
-      "net_vol_1": -10000.0,
-      "net_vol_5": -59340.0,
+      "net_amount_20": -21048530.0,
+      "net_vol_1": 0.0,
+      "net_vol_5": -54340.0,
       "net_vol_10": -101280.0,
-      "net_vol_20": -51091.0,
+      "net_vol_20": -51041.0,
       "position_analysis": {
         "build_date": "20260828",
         "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
@@ -519,25 +519,25 @@
     {
       "stock_id": "6920",
       "stock_name": "恆勁科技",
-      "close": 93.0,
-      "action_code": "reduce",
-      "action_label": "減碼",
-      "core_score": 43.1,
+      "close": 90.2,
+      "action_code": "hold",
+      "action_label": "持有觀察",
+      "core_score": 45.5,
       "inventory": 133150.0,
       "inventory_retention": 0.5453614581,
-      "market_value": 12382950.0,
+      "market_value": 12010130.0,
       "rolling_buy": 22269400.0,
-      "rolling_net": 3307200.0,
-      "capital_retention": 0.148508716,
+      "rolling_net": 6218200.0,
+      "capital_retention": 0.2792262028,
       "commitment_ratio": 6.0187567568,
-      "net_amount_1": -186000.0,
-      "net_amount_5": -10982400.0,
+      "net_amount_1": 0.0,
+      "net_amount_5": -8439900.0,
       "net_amount_10": -226900.0,
-      "net_amount_20": 3307200.0,
-      "net_vol_1": -2000.0,
-      "net_vol_5": -111000.0,
+      "net_amount_20": 6218200.0,
+      "net_vol_1": 0.0,
+      "net_vol_5": -86000.0,
       "net_vol_10": -8000.0,
-      "net_vol_20": 27500.0,
+      "net_vol_20": 57500.0,
       "position_analysis": {
         "build_date": "20260820",
         "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
@@ -609,7 +609,7 @@
             "price_impact": {
               "5": 0.0010449320794148065,
               "10": 0.0762800417972831,
-              "20": null
+              "20": -0.05747126436781613
             }
           },
           {
@@ -677,7 +677,7 @@
             "event_close": 103.0,
             "inventory_retention": 0.8976039320090109,
             "price_impact": {
-              "5": null,
+              "5": -0.12427184466019414,
               "10": null,
               "20": null
             }
@@ -711,33 +711,93 @@
             }
           }
         ],
-        "control_score": 57,
-        "control_samples": 21,
+        "control_score": 61,
+        "control_samples": 23,
+        "control_note": "加碼後上漲、減碼後走弱在可用 5／10／20 日窗的方向命中率"
+      }
+    },
+    {
+      "stock_id": "3644",
+      "stock_name": "凌嘉科",
+      "close": 522.0,
+      "action_code": "add",
+      "action_label": "加碼",
+      "core_score": 43.0,
+      "inventory": 16000.0,
+      "inventory_retention": 1.0,
+      "market_value": 8352000.0,
+      "rolling_buy": 6902500.0,
+      "rolling_net": 6803600.0,
+      "capital_retention": 0.985671858,
+      "commitment_ratio": 1.8655405405,
+      "net_amount_1": 6824000.0,
+      "net_amount_5": 6765700.0,
+      "net_amount_10": 6803600.0,
+      "net_amount_20": 6803600.0,
+      "net_vol_1": 14000.0,
+      "net_vol_5": 13900.0,
+      "net_vol_10": 14000.0,
+      "net_vol_20": 14000.0,
+      "position_analysis": {
+        "build_date": "20260703",
+        "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
+        "events": [
+          {
+            "date": "20260703",
+            "side": "add",
+            "label": "重大加碼",
+            "net_amount": 714000.0,
+            "net_lots": 2.0,
+            "event_close": 356.0,
+            "inventory_retention": 1.0,
+            "price_impact": {
+              "5": -0.1320224719101124,
+              "10": -0.2429775280898876,
+              "20": -0.2359550561797753
+            }
+          },
+          {
+            "date": "20261013",
+            "side": "add",
+            "label": "重大加碼",
+            "net_amount": 6824000.0,
+            "net_lots": 14.0,
+            "event_close": 522.0,
+            "inventory_retention": 1.0,
+            "price_impact": {
+              "5": null,
+              "10": null,
+              "20": null
+            }
+          }
+        ],
+        "control_score": 0,
+        "control_samples": 3,
         "control_note": "加碼後上漲、減碼後走弱在可用 5／10／20 日窗的方向命中率"
       }
     },
     {
       "stock_id": "7669",
       "stock_name": "碩正科技",
-      "close": 636.0,
-      "action_code": "hold",
-      "action_label": "持有觀察",
-      "core_score": 37.4,
-      "inventory": 46090.0,
+      "close": 629.0,
+      "action_code": "add",
+      "action_label": "加碼",
+      "core_score": 40.5,
+      "inventory": 48690.0,
       "inventory_retention": 1.0,
-      "market_value": 29313240.0,
-      "rolling_buy": 3910000.0,
-      "rolling_net": 3910000.0,
+      "market_value": 30626010.0,
+      "rolling_buy": 5531200.0,
+      "rolling_net": 5531200.0,
       "capital_retention": 1.0,
-      "commitment_ratio": 1.0567567568,
-      "net_amount_1": 0.0,
-      "net_amount_5": 0.0,
-      "net_amount_10": 3910000.0,
-      "net_amount_20": 3910000.0,
-      "net_vol_1": 0.0,
-      "net_vol_5": 0.0,
-      "net_vol_10": 6000.0,
-      "net_vol_20": 6000.0,
+      "commitment_ratio": 1.4949189189,
+      "net_amount_1": 1621200.0,
+      "net_amount_5": 1621200.0,
+      "net_amount_10": 5531200.0,
+      "net_amount_20": 5531200.0,
+      "net_vol_1": 2600.0,
+      "net_vol_5": 2600.0,
+      "net_vol_10": 8600.0,
+      "net_vol_20": 8600.0,
       "position_analysis": {
         "build_date": "20260206",
         "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
@@ -919,25 +979,25 @@
     {
       "stock_id": "7887",
       "stock_name": "宇川精材",
-      "close": 155.5,
+      "close": 150.0,
       "action_code": "hold",
       "action_label": "持有觀察",
-      "core_score": 35.9,
+      "core_score": 36.5,
       "inventory": 1075708.0,
       "inventory_retention": 0.9990712431,
-      "market_value": 167272594.0,
+      "market_value": 161356200.0,
       "rolling_buy": 5370500.0,
-      "rolling_net": 143500.0,
-      "capital_retention": 0.0267200447,
+      "rolling_net": 913500.0,
+      "capital_retention": 0.1700958942,
       "commitment_ratio": 1.4514864865,
       "net_amount_1": 0.0,
-      "net_amount_5": 485000.0,
+      "net_amount_5": 320000.0,
       "net_amount_10": 1146500.0,
-      "net_amount_20": 143500.0,
+      "net_amount_20": 913500.0,
       "net_vol_1": 0.0,
-      "net_vol_5": 3000.0,
+      "net_vol_5": 2000.0,
       "net_vol_10": 7000.0,
-      "net_vol_20": -1000.0,
+      "net_vol_20": 4000.0,
       "position_analysis": {
         "build_date": "20260113",
         "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
@@ -1119,24 +1179,24 @@
     {
       "stock_id": "7942",
       "stock_name": "東佑達",
-      "close": 780.0,
+      "close": 722.0,
       "action_code": "hold",
       "action_label": "持有觀察",
       "core_score": 35.4,
       "inventory": 4000.0,
       "inventory_retention": 1.0,
-      "market_value": 3120000.0,
+      "market_value": 2888000.0,
       "rolling_buy": 3275150.0,
       "rolling_net": 2350300.0,
       "capital_retention": 0.7176159871,
       "commitment_ratio": 0.8851756757,
       "net_amount_1": 0.0,
       "net_amount_5": 850000.0,
-      "net_amount_10": 663100.0,
+      "net_amount_10": 848750.0,
       "net_amount_20": 2350300.0,
       "net_vol_1": 0.0,
       "net_vol_5": 1000.0,
-      "net_vol_10": 700.0,
+      "net_vol_10": 1000.0,
       "net_vol_20": 4000.0,
       "position_analysis": {
         "build_date": "20260911",
@@ -1191,157 +1251,27 @@
       }
     },
     {
-      "stock_id": "5297",
-      "stock_name": "廣化",
-      "close": 79.3,
-      "action_code": "reduce",
-      "action_label": "減碼",
-      "core_score": 34.0,
-      "inventory": 61913.0,
-      "inventory_retention": 0.5528143862,
-      "market_value": 4909700.899999999,
-      "rolling_buy": 12065726.999999998,
-      "rolling_net": 5365016.999999998,
-      "capital_retention": 0.4446492947,
-      "commitment_ratio": 3.2610072973,
-      "net_amount_1": -1557549.2,
-      "net_amount_5": -784473.0,
-      "net_amount_10": 5227195.5,
-      "net_amount_20": 5365017.0,
-      "net_vol_1": -20095.0,
-      "net_vol_5": -15070.0,
-      "net_vol_10": 59995.0,
-      "net_vol_20": 61913.0,
-      "position_analysis": {
-        "build_date": "20260911",
-        "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
-        "events": [
-          {
-            "date": "20260911",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 36900.0,
-            "net_lots": 0.5,
-            "event_close": 73.8,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": -0.013550135501354976,
-              "10": -0.025745257452574388,
-              "20": null
-            }
-          },
-          {
-            "date": "20260922",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 107270.0,
-            "net_lots": 1.508,
-            "event_close": 71.2,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": 0.05477528089887618,
-              "10": 0.172752808988764,
-              "20": null
-            }
-          },
-          {
-            "date": "20261001",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 1963388.7,
-            "net_lots": 25.025,
-            "event_close": 75.1,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": 0.11185086551264978,
-              "10": null,
-              "20": null
-            }
-          },
-          {
-            "date": "20261002",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 4045379.5999999996,
-            "net_lots": 50.001,
-            "event_close": 79.8,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": -0.006265664160400974,
-              "10": null,
-              "20": null
-            }
-          },
-          {
-            "date": "20261005",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 3037201.8,
-            "net_lots": 35.013,
-            "event_close": 85.8,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": null,
-              "10": null,
-              "20": null
-            }
-          },
-          {
-            "date": "20261007",
-            "side": "reduce",
-            "label": "重大減碼",
-            "net_amount": -2313221.7,
-            "net_lots": -29.999,
-            "event_close": 78.0,
-            "inventory_retention": 0.6429336762027216,
-            "price_impact": {
-              "5": null,
-              "10": null,
-              "20": null
-            }
-          },
-          {
-            "date": "20261012",
-            "side": "reduce",
-            "label": "重大減碼",
-            "net_amount": -1557549.2,
-            "net_lots": -20.095,
-            "event_close": 79.3,
-            "inventory_retention": 0.5528143862280795,
-            "price_impact": {
-              "5": null,
-              "10": null,
-              "20": null
-            }
-          }
-        ],
-        "control_score": 50,
-        "control_samples": 6,
-        "control_note": "加碼後上漲、減碼後走弱在可用 5／10／20 日窗的方向命中率"
-      }
-    },
-    {
       "stock_id": "6610",
       "stock_name": "安成生技",
-      "close": 49.3,
+      "close": 47.15,
       "action_code": "add",
       "action_label": "加碼",
-      "core_score": 32.7,
-      "inventory": 29000.0,
+      "core_score": 32.8,
+      "inventory": 30000.0,
       "inventory_retention": 1.0,
-      "market_value": 1429700.0,
-      "rolling_buy": 1550300.0,
-      "rolling_net": 1316950.0,
-      "capital_retention": 0.8494807457,
-      "commitment_ratio": 0.419,
-      "net_amount_1": 49600.0,
-      "net_amount_5": 457200.0,
-      "net_amount_10": 1147700.0,
-      "net_amount_20": 1316950.0,
+      "market_value": 1414500.0,
+      "rolling_buy": 1597600.0,
+      "rolling_net": 1364250.0,
+      "capital_retention": 0.8539371557,
+      "commitment_ratio": 0.4317837838,
+      "net_amount_1": 47300.0,
+      "net_amount_5": 203500.0,
+      "net_amount_10": 1195000.0,
+      "net_amount_20": 1364250.0,
       "net_vol_1": 1000.0,
-      "net_vol_5": 10000.0,
-      "net_vol_10": 25000.0,
-      "net_vol_20": 29000.0,
+      "net_vol_5": 4000.0,
+      "net_vol_10": 26000.0,
+      "net_vol_20": 30000.0,
       "position_analysis": {
         "build_date": "20260916",
         "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
@@ -1439,7 +1369,7 @@
             "event_close": 49.95,
             "inventory_retention": 1.0,
             "price_impact": {
-              "5": null,
+              "5": -0.056056056056056125,
               "10": null,
               "20": null
             }
@@ -1459,21 +1389,169 @@
             }
           }
         ],
-        "control_score": 56,
-        "control_samples": 9,
+        "control_score": 50,
+        "control_samples": 10,
+        "control_note": "加碼後上漲、減碼後走弱在可用 5／10／20 日窗的方向命中率"
+      }
+    },
+    {
+      "stock_id": "7915",
+      "stock_name": "廌家",
+      "close": 373.5,
+      "action_code": "add",
+      "action_label": "加碼",
+      "core_score": 31.7,
+      "inventory": 4302.0,
+      "inventory_retention": 1.0,
+      "market_value": 1606797.0,
+      "rolling_buy": 885930.0,
+      "rolling_net": 885930.0,
+      "capital_retention": 1.0,
+      "commitment_ratio": 0.2394405405,
+      "net_amount_1": 751885.0,
+      "net_amount_5": 802560.0,
+      "net_amount_10": 885930.0,
+      "net_amount_20": 885930.0,
+      "net_vol_1": 2005.0,
+      "net_vol_5": 2130.0,
+      "net_vol_10": 2320.0,
+      "net_vol_20": 2320.0,
+      "position_analysis": {
+        "build_date": "20260428",
+        "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
+        "events": [
+          {
+            "date": "20260428",
+            "side": "add",
+            "label": "重大加碼",
+            "net_amount": 1172700.0,
+            "net_lots": 2.7,
+            "event_close": 630.0,
+            "inventory_retention": 1.0,
+            "price_impact": {
+              "5": 0.12857142857142856,
+              "10": 0.23015873015873023,
+              "20": 0.16666666666666674
+            }
+          },
+          {
+            "date": "20260429",
+            "side": "reduce",
+            "label": "重大減碼",
+            "net_amount": -1411915.0,
+            "net_lots": -2.395,
+            "event_close": 686.0,
+            "inventory_retention": 0.11296296296296296,
+            "price_impact": {
+              "5": 0.03498542274052485,
+              "10": 0.12099125364431496,
+              "20": 0.007288629737609353
+            }
+          },
+          {
+            "date": "20260506",
+            "side": "add",
+            "label": "重大加碼",
+            "net_amount": 383600.0,
+            "net_lots": 0.5,
+            "event_close": 711.0,
+            "inventory_retention": 0.4444444444444444,
+            "price_impact": {
+              "5": 0.09001406469760909,
+              "10": -0.015471167369901506,
+              "20": -0.13220815752461323
+            }
+          },
+          {
+            "date": "20260507",
+            "side": "add",
+            "label": "重大加碼",
+            "net_amount": 219000.0,
+            "net_lots": 0.3,
+            "event_close": 710.0,
+            "inventory_retention": 0.5555555555555556,
+            "price_impact": {
+              "5": 0.08309859154929566,
+              "10": 0.05070422535211261,
+              "20": -0.1704225352112676
+            }
+          },
+          {
+            "date": "20261013",
+            "side": "add",
+            "label": "重大加碼",
+            "net_amount": 751885.0,
+            "net_lots": 2.005,
+            "event_close": 373.5,
+            "inventory_retention": 1.0,
+            "price_impact": {
+              "5": null,
+              "10": null,
+              "20": null
+            }
+          }
+        ],
+        "control_score": 50,
+        "control_samples": 12,
+        "control_note": "加碼後上漲、減碼後走弱在可用 5／10／20 日窗的方向命中率"
+      }
+    },
+    {
+      "stock_id": "7956",
+      "stock_name": "啟賦",
+      "close": 316.0,
+      "action_code": "new",
+      "action_label": "新建倉",
+      "core_score": 31.5,
+      "inventory": 3197.0,
+      "inventory_retention": 1.0,
+      "market_value": 1010252.0,
+      "rolling_buy": 810159.5,
+      "rolling_net": 810159.5,
+      "capital_retention": 1.0,
+      "commitment_ratio": 0.218962027,
+      "net_amount_1": 810159.5,
+      "net_amount_5": 810159.5,
+      "net_amount_10": 810159.5,
+      "net_amount_20": 810159.5,
+      "net_vol_1": 3197.0,
+      "net_vol_5": 3197.0,
+      "net_vol_10": 3197.0,
+      "net_vol_20": 3197.0,
+      "position_analysis": {
+        "build_date": "20261013",
+        "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
+        "events": [
+          {
+            "date": "20261013",
+            "side": "add",
+            "label": "重大加碼",
+            "net_amount": 810159.5,
+            "net_lots": 3.197,
+            "event_close": 316.0,
+            "inventory_retention": 1.0,
+            "price_impact": {
+              "5": null,
+              "10": null,
+              "20": null
+            }
+          }
+        ],
+        "control_score": null,
+        "control_samples": 0,
         "control_note": "加碼後上漲、減碼後走弱在可用 5／10／20 日窗的方向命中率"
       }
     },
     {
       "stock_id": "7801",
       "stock_name": "華芸科技",
-      "close": 101.5,
+      "close": 102.5,
       "action_code": "hold",
       "action_label": "持有觀察",
       "core_score": 31.3,
       "inventory": 12000.0,
       "inventory_retention": 1.0,
-      "market_value": 1218000.0,
+      "market_value": 1230000.0,
       "rolling_buy": 676500.0,
       "rolling_net": 676500.0,
       "capital_retention": 1.0,
@@ -1539,89 +1617,15 @@
       }
     },
     {
-      "stock_id": "6696",
-      "stock_name": "仁新*",
-      "close": 171.5,
-      "action_code": "reduce",
-      "action_label": "減碼",
-      "core_score": 31.2,
-      "inventory": 5755.0,
-      "inventory_retention": 0.5231818182,
-      "market_value": 986982.5,
-      "rolling_buy": 14332208.5,
-      "rolling_net": -5689979.5,
-      "capital_retention": 0.0,
-      "commitment_ratio": 3.8735698649,
-      "net_amount_1": -109962.5,
-      "net_amount_5": -989862.5,
-      "net_amount_10": -2846876.5,
-      "net_amount_20": -5689979.5,
-      "net_vol_1": -645.0,
-      "net_vol_5": -6145.0,
-      "net_vol_10": -16339.0,
-      "net_vol_20": -29197.0,
-      "position_analysis": {
-        "build_date": "20261006",
-        "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
-        "events": [
-          {
-            "date": "20261006",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 1962000.0,
-            "net_lots": 11.0,
-            "event_close": 180.0,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": null,
-              "10": null,
-              "20": null
-            }
-          },
-          {
-            "date": "20261007",
-            "side": "reduce",
-            "label": "重大減碼",
-            "net_amount": -1077950.0,
-            "net_lots": -6.3,
-            "event_close": 173.0,
-            "inventory_retention": 0.42727272727272725,
-            "price_impact": {
-              "5": null,
-              "10": null,
-              "20": null
-            }
-          },
-          {
-            "date": "20261008",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 298800.0,
-            "net_lots": 1.7,
-            "event_close": 175.0,
-            "inventory_retention": 0.5818181818181818,
-            "price_impact": {
-              "5": null,
-              "10": null,
-              "20": null
-            }
-          }
-        ],
-        "control_score": null,
-        "control_samples": 0,
-        "control_note": "加碼後上漲、減碼後走弱在可用 5／10／20 日窗的方向命中率"
-      }
-    },
-    {
       "stock_id": "8298",
       "stock_name": "威睿",
-      "close": 38.35,
+      "close": 38.25,
       "action_code": "hold",
       "action_label": "持有觀察",
       "core_score": 31.2,
       "inventory": 15000.0,
       "inventory_retention": 1.0,
-      "market_value": 575250.0,
+      "market_value": 573750.0,
       "rolling_buy": 623750.0,
       "rolling_net": 623750.0,
       "capital_retention": 1.0,
@@ -1669,6 +1673,98 @@
         ],
         "control_score": 0,
         "control_samples": 4,
+        "control_note": "加碼後上漲、減碼後走弱在可用 5／10／20 日窗的方向命中率"
+      }
+    },
+    {
+      "stock_id": "8244",
+      "stock_name": "DIGITIMES",
+      "close": 85.0,
+      "action_code": "new",
+      "action_label": "新建倉",
+      "core_score": 30.8,
+      "inventory": 6100.0,
+      "inventory_retention": 1.0,
+      "market_value": 518500.0,
+      "rolling_buy": 416100.0,
+      "rolling_net": 416100.0,
+      "capital_retention": 1.0,
+      "commitment_ratio": 0.1124594595,
+      "net_amount_1": 416100.0,
+      "net_amount_5": 416100.0,
+      "net_amount_10": 416100.0,
+      "net_amount_20": 416100.0,
+      "net_vol_1": 6100.0,
+      "net_vol_5": 6100.0,
+      "net_vol_10": 6100.0,
+      "net_vol_20": 6100.0,
+      "position_analysis": {
+        "build_date": "20261013",
+        "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
+        "events": [
+          {
+            "date": "20261013",
+            "side": "add",
+            "label": "重大加碼",
+            "net_amount": 416100.0,
+            "net_lots": 6.1,
+            "event_close": 85.0,
+            "inventory_retention": 1.0,
+            "price_impact": {
+              "5": null,
+              "10": null,
+              "20": null
+            }
+          }
+        ],
+        "control_score": null,
+        "control_samples": 0,
+        "control_note": "加碼後上漲、減碼後走弱在可用 5／10／20 日窗的方向命中率"
+      }
+    },
+    {
+      "stock_id": "7955",
+      "stock_name": "車麗屋",
+      "close": 200.0,
+      "action_code": "new",
+      "action_label": "新建倉",
+      "core_score": 30.7,
+      "inventory": 2600.0,
+      "inventory_retention": 1.0,
+      "market_value": 520000.0,
+      "rolling_buy": 361000.0,
+      "rolling_net": 361000.0,
+      "capital_retention": 1.0,
+      "commitment_ratio": 0.0975675676,
+      "net_amount_1": 361000.0,
+      "net_amount_5": 361000.0,
+      "net_amount_10": 361000.0,
+      "net_amount_20": 361000.0,
+      "net_vol_1": 2600.0,
+      "net_vol_5": 2600.0,
+      "net_vol_10": 2600.0,
+      "net_vol_20": 2600.0,
+      "position_analysis": {
+        "build_date": "20261013",
+        "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
+        "events": [
+          {
+            "date": "20261013",
+            "side": "add",
+            "label": "重大加碼",
+            "net_amount": 361000.0,
+            "net_lots": 2.6,
+            "event_close": 200.0,
+            "inventory_retention": 1.0,
+            "price_impact": {
+              "5": null,
+              "10": null,
+              "20": null
+            }
+          }
+        ],
+        "control_score": null,
+        "control_samples": 0,
         "control_note": "加碼後上漲、減碼後走弱在可用 5／10／20 日窗的方向命中率"
       }
     },
@@ -1721,23 +1817,23 @@
     {
       "stock_id": "7846",
       "stock_name": "德揚",
-      "close": 110.0,
+      "close": 107.5,
       "action_code": "hold",
       "action_label": "持有觀察",
       "core_score": 30.7,
       "inventory": 3000.0,
       "inventory_retention": 1.0,
-      "market_value": 330000.0,
+      "market_value": 322500.0,
       "rolling_buy": 361000.0,
       "rolling_net": 361000.0,
       "capital_retention": 1.0,
       "commitment_ratio": 0.0975675676,
       "net_amount_1": 0.0,
-      "net_amount_5": 260500.0,
+      "net_amount_5": 0.0,
       "net_amount_10": 361000.0,
       "net_amount_20": 361000.0,
       "net_vol_1": 0.0,
-      "net_vol_5": 2000.0,
+      "net_vol_5": 0.0,
       "net_vol_10": 3000.0,
       "net_vol_20": 3000.0,
       "position_analysis": {
@@ -1767,39 +1863,39 @@
             "event_close": 127.0,
             "inventory_retention": 1.0,
             "price_impact": {
-              "5": null,
+              "5": -0.15354330708661412,
               "10": null,
               "20": null
             }
           }
         ],
-        "control_score": 100,
-        "control_samples": 1,
+        "control_score": 50,
+        "control_samples": 2,
         "control_note": "加碼後上漲、減碼後走弱在可用 5／10／20 日窗的方向命中率"
       }
     },
     {
       "stock_id": "7759",
       "stock_name": "視航生醫",
-      "close": 52.2,
+      "close": 52.8,
       "action_code": "hold",
       "action_label": "持有觀察",
-      "core_score": 30.6,
+      "core_score": 30.4,
       "inventory": 71000.0,
       "inventory_retention": 0.9726027397,
-      "market_value": 3706200.0,
-      "rolling_buy": 845450.0,
-      "rolling_net": 624250.0,
-      "capital_retention": 0.7383641848,
-      "commitment_ratio": 0.2285,
+      "market_value": 3748800.0,
+      "rolling_buy": 744550.0,
+      "rolling_net": 523350.0,
+      "capital_retention": 0.7029077967,
+      "commitment_ratio": 0.2012297297,
       "net_amount_1": 0.0,
       "net_amount_5": -94350.0,
       "net_amount_10": 441550.0,
-      "net_amount_20": 624250.0,
+      "net_amount_20": 523350.0,
       "net_vol_1": 0.0,
       "net_vol_5": -2000.0,
       "net_vol_10": 10000.0,
-      "net_vol_20": 15000.0,
+      "net_vol_20": 12000.0,
       "position_analysis": {
         "build_date": "20260128",
         "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
@@ -1925,13 +2021,13 @@
     {
       "stock_id": "7883",
       "stock_name": "饗賓",
-      "close": 268.5,
+      "close": 266.5,
       "action_code": "hold",
       "action_label": "持有觀察",
       "core_score": 30.4,
       "inventory": 5000.0,
       "inventory_retention": 1.0,
-      "market_value": 1342500.0,
+      "market_value": 1332500.0,
       "rolling_buy": 189000.0,
       "rolling_net": 189000.0,
       "capital_retention": 1.0,
@@ -2097,25 +2193,25 @@
     {
       "stock_id": "6932",
       "stock_name": "水星生醫*",
-      "close": 6.8,
-      "action_code": "add",
-      "action_label": "加碼",
+      "close": 6.53,
+      "action_code": "hold",
+      "action_label": "持有觀察",
       "core_score": 30.3,
       "inventory": 1242105.0,
       "inventory_retention": 1.0,
-      "market_value": 8446314.0,
-      "rolling_buy": 181040.0,
-      "rolling_net": 144630.0,
-      "capital_retention": 0.7988842245,
-      "commitment_ratio": 0.0489297297,
-      "net_amount_1": 13590.0,
-      "net_amount_5": 121560.0,
-      "net_amount_10": 133580.0,
-      "net_amount_20": 144630.0,
-      "net_vol_1": 2000.0,
-      "net_vol_5": 18000.0,
-      "net_vol_10": 20000.0,
-      "net_vol_20": 22000.0,
+      "market_value": 8110945.65,
+      "rolling_buy": 160080.0,
+      "rolling_net": 123670.0,
+      "capital_retention": 0.7725512244,
+      "commitment_ratio": 0.0432648649,
+      "net_amount_1": 0.0,
+      "net_amount_5": 41370.0,
+      "net_amount_10": 121560.0,
+      "net_amount_20": 123670.0,
+      "net_vol_1": 0.0,
+      "net_vol_5": 6000.0,
+      "net_vol_10": 18000.0,
+      "net_vol_20": 18000.0,
       "position_analysis": {
         "build_date": "20230306",
         "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
@@ -2297,25 +2393,25 @@
     {
       "stock_id": "7924",
       "stock_name": "TLC-KY",
-      "close": 441.5,
-      "action_code": "new",
-      "action_label": "新建倉",
+      "close": 425.5,
+      "action_code": "add",
+      "action_label": "加碼",
       "core_score": 30.2,
-      "inventory": 100.0,
+      "inventory": 200.0,
       "inventory_retention": 1.0,
-      "market_value": 44150.0,
-      "rolling_buy": 169955.0,
-      "rolling_net": -4640695.0,
+      "market_value": 85100.0,
+      "rolling_buy": 212555.0,
+      "rolling_net": -4598095.0,
       "capital_retention": 0.0,
-      "commitment_ratio": 0.0459337838,
-      "net_amount_1": 43000.0,
-      "net_amount_5": 43000.0,
-      "net_amount_10": -4659200.0,
-      "net_amount_20": -4640695.0,
+      "commitment_ratio": 0.0574472973,
+      "net_amount_1": 42600.0,
+      "net_amount_5": 85600.0,
+      "net_amount_10": -4616600.0,
+      "net_amount_20": -4598095.0,
       "net_vol_1": 100.0,
-      "net_vol_5": 100.0,
-      "net_vol_10": -9900.0,
-      "net_vol_20": -9840.0,
+      "net_vol_5": 200.0,
+      "net_vol_10": -9800.0,
+      "net_vol_20": -9740.0,
       "position_analysis": {
         "build_date": "20261012",
         "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
@@ -2327,6 +2423,20 @@
             "net_amount": 43000.0,
             "net_lots": 0.1,
             "event_close": 441.5,
+            "inventory_retention": 1.0,
+            "price_impact": {
+              "5": null,
+              "10": null,
+              "20": null
+            }
+          },
+          {
+            "date": "20261013",
+            "side": "add",
+            "label": "重大加碼",
+            "net_amount": 42600.0,
+            "net_lots": 0.1,
+            "event_close": 425.5,
             "inventory_retention": 1.0,
             "price_impact": {
               "5": null,
@@ -2403,13 +2513,13 @@
     {
       "stock_id": "6704",
       "stock_name": "國璽幹細胞",
-      "close": 24.0,
+      "close": 24.1,
       "action_code": "hold",
       "action_label": "持有觀察",
       "core_score": 30.1,
       "inventory": 2000.0,
       "inventory_retention": 1.0,
-      "market_value": 48000.0,
+      "market_value": 48200.0,
       "rolling_buy": 48000.0,
       "rolling_net": 48000.0,
       "capital_retention": 1.0,
@@ -2447,61 +2557,15 @@
       }
     },
     {
-      "stock_id": "4197",
-      "stock_name": "暐世",
-      "close": 8.75,
-      "action_code": "hold",
-      "action_label": "持有觀察",
-      "core_score": 30.1,
-      "inventory": 3000.0,
-      "inventory_retention": 1.0,
-      "market_value": 26250.0,
-      "rolling_buy": 42150.0,
-      "rolling_net": 42150.0,
-      "capital_retention": 1.0,
-      "commitment_ratio": 0.0113918919,
-      "net_amount_1": 0.0,
-      "net_amount_5": 0.0,
-      "net_amount_10": 0.0,
-      "net_amount_20": 42150.0,
-      "net_vol_1": 0.0,
-      "net_vol_5": 0.0,
-      "net_vol_10": 0.0,
-      "net_vol_20": 3000.0,
-      "position_analysis": {
-        "build_date": "20260910",
-        "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
-        "events": [
-          {
-            "date": "20260910",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 42150.0,
-            "net_lots": 3.0,
-            "event_close": 12.1,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": -0.23223140495867778,
-              "10": -0.24545454545454537,
-              "20": null
-            }
-          }
-        ],
-        "control_score": 0,
-        "control_samples": 2,
-        "control_note": "加碼後上漲、減碼後走弱在可用 5／10／20 日窗的方向命中率"
-      }
-    },
-    {
       "stock_id": "6825",
       "stock_name": "和暢科技",
-      "close": 37.1,
+      "close": 35.0,
       "action_code": "hold",
       "action_label": "持有觀察",
       "core_score": 30.0,
       "inventory": 578030.0,
       "inventory_retention": 1.0,
-      "market_value": 21444913.0,
+      "market_value": 20231050.0,
       "rolling_buy": 0.0,
       "rolling_net": 0.0,
       "capital_retention": 0.0,
@@ -2653,13 +2717,13 @@
     {
       "stock_id": "6407",
       "stock_name": "相互",
-      "close": 19.4,
+      "close": 18.9,
       "action_code": "hold",
       "action_label": "持有觀察",
       "core_score": 30.0,
       "inventory": 477500.0,
       "inventory_retention": 1.0,
-      "market_value": 9263500.0,
+      "market_value": 9024750.0,
       "rolling_buy": 0.0,
       "rolling_net": 0.0,
       "capital_retention": 0.0,
@@ -2853,13 +2917,13 @@
     {
       "stock_id": "7833",
       "stock_name": "綠岩能源",
-      "close": 22.95,
+      "close": 21.45,
       "action_code": "hold",
       "action_label": "持有觀察",
       "core_score": 30.0,
       "inventory": 123000.0,
       "inventory_retention": 1.0,
-      "market_value": 2822850.0,
+      "market_value": 2638350.0,
       "rolling_buy": 0.0,
       "rolling_net": 0.0,
       "capital_retention": 0.0,
@@ -2997,13 +3061,13 @@
     {
       "stock_id": "7886",
       "stock_name": "科建",
-      "close": 90.3,
+      "close": 84.7,
       "action_code": "hold",
       "action_label": "持有觀察",
       "core_score": 30.0,
       "inventory": 27180.0,
       "inventory_retention": 1.0,
-      "market_value": 2454354.0,
+      "market_value": 2302146.0,
       "rolling_buy": 0.0,
       "rolling_net": 0.0,
       "capital_retention": 0.0,
@@ -3197,13 +3261,13 @@
     {
       "stock_id": "7836",
       "stock_name": "智生活",
-      "close": 44.0,
+      "close": 44.15,
       "action_code": "hold",
       "action_label": "持有觀察",
       "core_score": 30.0,
       "inventory": 48000.0,
       "inventory_retention": 1.0,
-      "market_value": 2112000.0,
+      "market_value": 2119200.0,
       "rolling_buy": 0.0,
       "rolling_net": 0.0,
       "capital_retention": 0.0,
@@ -3311,215 +3375,15 @@
       }
     },
     {
-      "stock_id": "7902",
-      "stock_name": "宇越生醫*",
-      "close": 27.7,
-      "action_code": "hold",
-      "action_label": "持有觀察",
-      "core_score": 30.0,
-      "inventory": 62000.0,
-      "inventory_retention": 1.0,
-      "market_value": 1717400.0,
-      "rolling_buy": 0.0,
-      "rolling_net": 0.0,
-      "capital_retention": 0.0,
-      "commitment_ratio": 0.0,
-      "net_amount_1": 0.0,
-      "net_amount_5": 0.0,
-      "net_amount_10": 0.0,
-      "net_amount_20": 0.0,
-      "net_vol_1": 0.0,
-      "net_vol_5": 0.0,
-      "net_vol_10": 0.0,
-      "net_vol_20": 0.0,
-      "position_analysis": {
-        "build_date": "20260206",
-        "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
-        "events": [
-          {
-            "date": "20260330",
-            "side": "reduce",
-            "label": "重大減碼",
-            "net_amount": -38050.0,
-            "net_lots": -1.0,
-            "event_close": 39.95,
-            "inventory_retention": 0.4444444444444444,
-            "price_impact": {
-              "5": -0.02377972465581979,
-              "10": 0.08010012515644549,
-              "20": 0.15018773466833535
-            }
-          },
-          {
-            "date": "20260521",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 39950.0,
-            "net_lots": 1.0,
-            "event_close": 39.95,
-            "inventory_retention": 0.6666666666666666,
-            "price_impact": {
-              "5": 0.0,
-              "10": -0.01251564455569465,
-              "20": -0.17772215269086356
-            }
-          },
-          {
-            "date": "20260522",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 198850.0,
-            "net_lots": 5.0,
-            "event_close": 40.05,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": -0.0024968789013731785,
-              "10": -0.022471910112359494,
-              "20": -0.19475655430711603
-            }
-          },
-          {
-            "date": "20260525",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 157500.0,
-            "net_lots": 4.0,
-            "event_close": 40.15,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": -0.0273972602739726,
-              "10": -0.07845579078455789,
-              "20": -0.19925280199252804
-            }
-          },
-          {
-            "date": "20260526",
-            "side": "reduce",
-            "label": "重大減碼",
-            "net_amount": -78300.0,
-            "net_lots": -2.0,
-            "event_close": 40.15,
-            "inventory_retention": 0.8333333333333334,
-            "price_impact": {
-              "5": -0.02490660024906599,
-              "10": -0.041095890410958846,
-              "20": -0.1892901618929017
-            }
-          },
-          {
-            "date": "20260527",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 78300.0,
-            "net_lots": 2.0,
-            "event_close": 40.15,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": -0.01743462017434605,
-              "10": -0.07845579078455789,
-              "20": -0.20298879202988784
-            }
-          },
-          {
-            "date": "20260528",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 156500.0,
-            "net_lots": 4.0,
-            "event_close": 39.95,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": -0.01251564455569465,
-              "10": -0.1864831038798499,
-              "20": -0.22403003754693374
-            }
-          },
-          {
-            "date": "20260529",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 311600.0,
-            "net_lots": 8.0,
-            "event_close": 39.95,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": -0.020025031289111483,
-              "10": -0.1902377972465582,
-              "20": -0.2428035043804756
-            }
-          },
-          {
-            "date": "20260602",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 234800.0,
-            "net_lots": 6.0,
-            "event_close": 39.15,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": -0.016602809706257937,
-              "10": -0.1698595146871008,
-              "20": -0.20051085568326943
-            }
-          },
-          {
-            "date": "20260603",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 155700.0,
-            "net_lots": 4.0,
-            "event_close": 39.45,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": -0.06210392902408113,
-              "10": -0.18504435994930302,
-              "20": -0.020278833967046994
-            }
-          },
-          {
-            "date": "20260604",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 155100.0,
-            "net_lots": 4.0,
-            "event_close": 39.45,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": -0.17617237008872,
-              "10": -0.16730038022813687,
-              "20": 0.0
-            }
-          },
-          {
-            "date": "20260605",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 233200.0,
-            "net_lots": 6.0,
-            "event_close": 39.15,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": -0.17369093231162192,
-              "10": -0.17624521072796928,
-              "20": 0.00766283524904221
-            }
-          }
-        ],
-        "control_score": 14,
-        "control_samples": 36,
-        "control_note": "加碼後上漲、減碼後走弱在可用 5／10／20 日窗的方向命中率"
-      }
-    },
-    {
       "stock_id": "7896",
       "stock_name": "喬越",
-      "close": 209.5,
+      "close": 213.0,
       "action_code": "hold",
       "action_label": "持有觀察",
       "core_score": 30.0,
       "inventory": 8000.0,
       "inventory_retention": 1.0,
-      "market_value": 1676000.0,
+      "market_value": 1704000.0,
       "rolling_buy": 0.0,
       "rolling_net": 0.0,
       "capital_retention": 0.0,
@@ -3711,15 +3575,15 @@
       }
     },
     {
-      "stock_id": "6832",
-      "stock_name": "金鼎科",
-      "close": 77.0,
+      "stock_id": "7902",
+      "stock_name": "宇越生醫*",
+      "close": 27.0,
       "action_code": "hold",
       "action_label": "持有觀察",
       "core_score": 30.0,
-      "inventory": 21107.0,
+      "inventory": 62000.0,
       "inventory_retention": 1.0,
-      "market_value": 1625239.0,
+      "market_value": 1674000.0,
       "rolling_buy": 0.0,
       "rolling_net": 0.0,
       "capital_retention": 0.0,
@@ -3733,310 +3597,180 @@
       "net_vol_10": 0.0,
       "net_vol_20": 0.0,
       "position_analysis": {
-        "build_date": "20211228",
+        "build_date": "20260206",
         "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
         "events": [
           {
-            "date": "20220927",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 114000.0,
-            "net_lots": 2.0,
-            "event_close": 58.5,
-            "inventory_retention": 1.0,
+            "date": "20260330",
+            "side": "reduce",
+            "label": "重大減碼",
+            "net_amount": -38050.0,
+            "net_lots": -1.0,
+            "event_close": 39.95,
+            "inventory_retention": 0.4444444444444444,
             "price_impact": {
-              "5": -0.0017094017094017033,
-              "10": -0.042735042735042694,
-              "20": -0.1299145299145299
+              "5": -0.02377972465581979,
+              "10": 0.08010012515644549,
+              "20": 0.15018773466833535
             }
           },
           {
-            "date": "20220929",
+            "date": "20260521",
             "side": "add",
             "label": "重大加碼",
-            "net_amount": 288200.0,
+            "net_amount": 39950.0,
+            "net_lots": 1.0,
+            "event_close": 39.95,
+            "inventory_retention": 0.6666666666666666,
+            "price_impact": {
+              "5": 0.0,
+              "10": -0.01251564455569465,
+              "20": -0.17772215269086356
+            }
+          },
+          {
+            "date": "20260522",
+            "side": "add",
+            "label": "重大加碼",
+            "net_amount": 198850.0,
             "net_lots": 5.0,
-            "event_close": 59.3,
+            "event_close": 40.05,
             "inventory_retention": 1.0,
             "price_impact": {
-              "5": -0.016863406408094472,
-              "10": -0.021922428330522714,
-              "20": -0.0994940978077572
+              "5": -0.0024968789013731785,
+              "10": -0.022471910112359494,
+              "20": -0.19475655430711603
             }
           },
           {
-            "date": "20230209",
+            "date": "20260525",
             "side": "add",
             "label": "重大加碼",
-            "net_amount": 120700.0,
+            "net_amount": 157500.0,
+            "net_lots": 4.0,
+            "event_close": 40.15,
+            "inventory_retention": 1.0,
+            "price_impact": {
+              "5": -0.0273972602739726,
+              "10": -0.07845579078455789,
+              "20": -0.19925280199252804
+            }
+          },
+          {
+            "date": "20260526",
+            "side": "reduce",
+            "label": "重大減碼",
+            "net_amount": -78300.0,
+            "net_lots": -2.0,
+            "event_close": 40.15,
+            "inventory_retention": 0.8333333333333334,
+            "price_impact": {
+              "5": -0.02490660024906599,
+              "10": -0.041095890410958846,
+              "20": -0.1892901618929017
+            }
+          },
+          {
+            "date": "20260527",
+            "side": "add",
+            "label": "重大加碼",
+            "net_amount": 78300.0,
             "net_lots": 2.0,
-            "event_close": 60.9,
+            "event_close": 40.15,
             "inventory_retention": 1.0,
             "price_impact": {
-              "5": 0.034482758620689724,
-              "10": 0.0410509031198687,
-              "20": 0.08538587848932666
+              "5": -0.01743462017434605,
+              "10": -0.07845579078455789,
+              "20": -0.20298879202988784
             }
           },
           {
-            "date": "20230313",
-            "side": "reduce",
-            "label": "重大減碼",
-            "net_amount": -136800.0,
-            "net_lots": -2.0,
-            "event_close": 66.1,
-            "inventory_retention": 0.8870120332184622,
-            "price_impact": {
-              "5": 0.027231467473525228,
-              "10": 0.11346444780635401,
-              "20": 0.17851739788199716
-            }
-          },
-          {
-            "date": "20230324",
+            "date": "20260528",
             "side": "add",
             "label": "重大加碼",
-            "net_amount": 222900.0,
-            "net_lots": 3.0,
-            "event_close": 75.3,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": 0.04116865869853936,
-              "10": -0.005312084993359778,
-              "20": -0.08100929614873831
-            }
-          },
-          {
-            "date": "20230411",
-            "side": "reduce",
-            "label": "重大減碼",
-            "net_amount": -216100.0,
-            "net_lots": -3.0,
-            "event_close": 74.7,
-            "inventory_retention": 0.8404340194670497,
-            "price_impact": {
-              "5": 0.006693440428380271,
-              "10": -0.07362784471218209,
-              "20": -0.0843373493975903
-            }
-          },
-          {
-            "date": "20230821",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 229000.0,
-            "net_lots": 3.0,
-            "event_close": 75.5,
-            "inventory_retention": 0.8936226796446998,
-            "price_impact": {
-              "5": -0.08079470198675487,
-              "10": -0.11258278145695366,
-              "20": -0.16556291390728473
-            }
-          },
-          {
-            "date": "20230911",
-            "side": "reduce",
-            "label": "重大減碼",
-            "net_amount": -190600.0,
-            "net_lots": -3.0,
-            "event_close": 64.0,
-            "inventory_retention": 0.7340566991117494,
-            "price_impact": {
-              "5": -0.015625,
-              "10": -0.050000000000000044,
-              "20": -0.09687500000000004
-            }
-          },
-          {
-            "date": "20231109",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 251400.0,
+            "net_amount": 156500.0,
             "net_lots": 4.0,
-            "event_close": 63.2,
-            "inventory_retention": 0.962767937875645,
+            "event_close": 39.95,
+            "inventory_retention": 1.0,
             "price_impact": {
-              "5": -0.034810126582278555,
-              "10": -0.06170886075949378,
-              "20": 0.006329113924050667
+              "5": -0.01251564455569465,
+              "10": -0.1864831038798499,
+              "20": -0.22403003754693374
             }
           },
           {
-            "date": "20231123",
-            "side": "reduce",
-            "label": "重大減碼",
-            "net_amount": -170400.0,
-            "net_lots": -3.0,
-            "event_close": 57.4,
-            "inventory_retention": 0.8032019573426945,
-            "price_impact": {
-              "5": 0.012195121951219523,
-              "10": 0.07491289198606288,
-              "20": 0.08885017421602792
-            }
-          },
-          {
-            "date": "20240105",
-            "side": "reduce",
-            "label": "重大減碼",
-            "net_amount": -114200.0,
-            "net_lots": -2.0,
-            "event_close": 58.0,
-            "inventory_retention": 0.7500132971650444,
-            "price_impact": {
-              "5": 0.01379310344827589,
-              "10": 0.0,
-              "20": -0.01551724137931032
-            }
-          },
-          {
-            "date": "20240409",
+            "date": "20260529",
             "side": "add",
             "label": "重大加碼",
-            "net_amount": 180400.0,
-            "net_lots": 3.0,
-            "event_close": 61.5,
-            "inventory_retention": 0.9202170097335248,
+            "net_amount": 311600.0,
+            "net_lots": 8.0,
+            "event_close": 39.95,
+            "inventory_retention": 1.0,
             "price_impact": {
-              "5": -0.026016260162601612,
-              "10": -0.04552845528455285,
-              "20": -0.04552845528455285
+              "5": -0.020025031289111483,
+              "10": -0.1902377972465582,
+              "20": -0.2428035043804756
+            }
+          },
+          {
+            "date": "20260602",
+            "side": "add",
+            "label": "重大加碼",
+            "net_amount": 234800.0,
+            "net_lots": 6.0,
+            "event_close": 39.15,
+            "inventory_retention": 1.0,
+            "price_impact": {
+              "5": -0.016602809706257937,
+              "10": -0.1698595146871008,
+              "20": -0.20051085568326943
+            }
+          },
+          {
+            "date": "20260603",
+            "side": "add",
+            "label": "重大加碼",
+            "net_amount": 155700.0,
+            "net_lots": 4.0,
+            "event_close": 39.45,
+            "inventory_retention": 1.0,
+            "price_impact": {
+              "5": -0.06210392902408113,
+              "10": -0.18504435994930302,
+              "20": -0.020278833967046994
+            }
+          },
+          {
+            "date": "20260604",
+            "side": "add",
+            "label": "重大加碼",
+            "net_amount": 155100.0,
+            "net_lots": 4.0,
+            "event_close": 39.45,
+            "inventory_retention": 1.0,
+            "price_impact": {
+              "5": -0.17617237008872,
+              "10": -0.16730038022813687,
+              "20": 0.0
+            }
+          },
+          {
+            "date": "20260605",
+            "side": "add",
+            "label": "重大加碼",
+            "net_amount": 233200.0,
+            "net_lots": 6.0,
+            "event_close": 39.15,
+            "inventory_retention": 1.0,
+            "price_impact": {
+              "5": -0.17369093231162192,
+              "10": -0.17624521072796928,
+              "20": 0.00766283524904221
             }
           }
         ],
-        "control_score": 31,
+        "control_score": 14,
         "control_samples": 36,
-        "control_note": "加碼後上漲、減碼後走弱在可用 5／10／20 日窗的方向命中率"
-      }
-    },
-    {
-      "stock_id": "6723",
-      "stock_name": "傑智環境",
-      "close": 29.4,
-      "action_code": "hold",
-      "action_label": "持有觀察",
-      "core_score": 30.0,
-      "inventory": 50000.0,
-      "inventory_retention": 1.0,
-      "market_value": 1470000.0,
-      "rolling_buy": 0.0,
-      "rolling_net": 0.0,
-      "capital_retention": 0.0,
-      "commitment_ratio": 0.0,
-      "net_amount_1": 0.0,
-      "net_amount_5": 0.0,
-      "net_amount_10": 0.0,
-      "net_amount_20": 0.0,
-      "net_vol_1": 0.0,
-      "net_vol_5": 0.0,
-      "net_vol_10": 0.0,
-      "net_vol_20": 0.0,
-      "position_analysis": {
-        "build_date": "20260824",
-        "build_note": "目前可觀察庫存由零轉正的日期；較早的不可觀察庫存不納入",
-        "events": [
-          {
-            "date": "20260824",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 375000.0,
-            "net_lots": 10.0,
-            "event_close": 37.45,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": -0.01468624833110821,
-              "10": -0.03204272363150873,
-              "20": -0.11882510013351144
-            }
-          },
-          {
-            "date": "20260825",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 111000.0,
-            "net_lots": 3.0,
-            "event_close": 37.75,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": -0.0331125827814569,
-              "10": -0.07549668874172188,
-              "20": -0.16688741721854305
-            }
-          },
-          {
-            "date": "20260826",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 111000.0,
-            "net_lots": 3.0,
-            "event_close": 38.15,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": -0.04980340760157276,
-              "10": -0.1271297509829621,
-              "20": -0.17562254259501964
-            }
-          },
-          {
-            "date": "20260828",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 148000.0,
-            "net_lots": 4.0,
-            "event_close": 38.35,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": -0.054758800521512385,
-              "10": -0.13168187744458937,
-              "20": -0.17992177314211222
-            }
-          },
-          {
-            "date": "20260901",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 365000.0,
-            "net_lots": 10.0,
-            "event_close": 36.5,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": -0.043835616438356206,
-              "10": -0.09999999999999998,
-              "20": -0.1328767123287672
-            }
-          },
-          {
-            "date": "20260902",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 360000.0,
-            "net_lots": 10.0,
-            "event_close": 36.25,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": -0.0813793103448277,
-              "10": -0.049655172413793025,
-              "20": -0.11862068965517247
-            }
-          },
-          {
-            "date": "20260903",
-            "side": "add",
-            "label": "重大加碼",
-            "net_amount": 355000.0,
-            "net_lots": 10.0,
-            "event_close": 35.5,
-            "inventory_retention": 1.0,
-            "price_impact": {
-              "5": -0.05352112676056331,
-              "10": -0.07464788732394367,
-              "20": -0.1732394366197183
-            }
-          }
-        ],
-        "control_score": 0,
-        "control_samples": 21,
         "control_note": "加碼後上漲、減碼後走弱在可用 5／10／20 日窗的方向命中率"
       }
     }
@@ -4044,134 +3778,284 @@
   "flow_windows": {
     "1": [
       {
-        "stock_id": "7754",
-        "stock_name": "安基生技",
-        "buy_amount": 391000.0,
+        "stock_id": "3644",
+        "stock_name": "凌嘉科",
+        "buy_amount": 6824000.0,
         "sell_amount": 0.0,
-        "buy_vol": 5000.0,
+        "buy_vol": 14000.0,
         "sell_vol": 0.0,
-        "net_amount": 391000.0,
-        "net_vol": 5000.0
+        "net_amount": 6824000.0,
+        "net_vol": 14000.0
       },
       {
-        "stock_id": "6812",
-        "stock_name": "梭特",
-        "buy_amount": 321000.0,
+        "stock_id": "7669",
+        "stock_name": "碩正科技",
+        "buy_amount": 1621200.0,
         "sell_amount": 0.0,
-        "buy_vol": 4000.0,
+        "buy_vol": 2600.0,
         "sell_vol": 0.0,
-        "net_amount": 321000.0,
-        "net_vol": 4000.0
+        "net_amount": 1621200.0,
+        "net_vol": 2600.0
       },
       {
-        "stock_id": "3585",
-        "stock_name": "聯致",
-        "buy_amount": 607329.0,
-        "sell_amount": 419200.0,
-        "buy_vol": 8656.0,
-        "sell_vol": 6000.0,
-        "net_amount": 188129.0,
-        "net_vol": 2656.0
+        "stock_id": "7956",
+        "stock_name": "啟賦",
+        "buy_amount": 810159.5,
+        "sell_amount": 0.0,
+        "buy_vol": 3197.0,
+        "sell_vol": 0.0,
+        "net_amount": 810159.5,
+        "net_vol": 3197.0
       },
       {
-        "stock_id": "7832",
-        "stock_name": "智新生技*",
-        "buy_amount": 155500.0,
+        "stock_id": "7915",
+        "stock_name": "廌家",
+        "buy_amount": 751885.0,
         "sell_amount": 0.0,
-        "buy_vol": 10000.0,
+        "buy_vol": 2005.0,
         "sell_vol": 0.0,
-        "net_amount": 155500.0,
-        "net_vol": 10000.0
+        "net_amount": 751885.0,
+        "net_vol": 2005.0
+      },
+      {
+        "stock_id": "8244",
+        "stock_name": "DIGITIMES",
+        "buy_amount": 416100.0,
+        "sell_amount": 0.0,
+        "buy_vol": 6100.0,
+        "sell_vol": 0.0,
+        "net_amount": 416100.0,
+        "net_vol": 6100.0
+      },
+      {
+        "stock_id": "7955",
+        "stock_name": "車麗屋",
+        "buy_amount": 361000.0,
+        "sell_amount": 0.0,
+        "buy_vol": 2600.0,
+        "sell_vol": 0.0,
+        "net_amount": 361000.0,
+        "net_vol": 2600.0
       },
       {
         "stock_id": "7911",
         "stock_name": "阿波羅電力",
-        "buy_amount": 144000.0,
+        "buy_amount": 138000.0,
         "sell_amount": 0.0,
         "buy_vol": 1000.0,
         "sell_vol": 0.0,
-        "net_amount": 144000.0,
+        "net_amount": 138000.0,
         "net_vol": 1000.0
       },
       {
-        "stock_id": "7784",
-        "stock_name": "安邦生技*",
-        "buy_amount": 66950.0,
+        "stock_id": "6891",
+        "stock_name": "樂迦再生",
+        "buy_amount": 90500.0,
         "sell_amount": 0.0,
-        "buy_vol": 6000.0,
+        "buy_vol": 2000.0,
         "sell_vol": 0.0,
-        "net_amount": 66950.0,
-        "net_vol": 6000.0
+        "net_amount": 90500.0,
+        "net_vol": 2000.0
+      },
+      {
+        "stock_id": "7419",
+        "stock_name": "達勝",
+        "buy_amount": 49950.0,
+        "sell_amount": 0.0,
+        "buy_vol": 1000.0,
+        "sell_vol": 0.0,
+        "net_amount": 49950.0,
+        "net_vol": 1000.0
       },
       {
         "stock_id": "6610",
         "stock_name": "安成生技",
-        "buy_amount": 49600.0,
+        "buy_amount": 47300.0,
         "sell_amount": 0.0,
         "buy_vol": 1000.0,
         "sell_vol": 0.0,
-        "net_amount": 49600.0,
+        "net_amount": 47300.0,
         "net_vol": 1000.0
       },
       {
         "stock_id": "7924",
         "stock_name": "TLC-KY",
-        "buy_amount": 43000.0,
+        "buy_amount": 42600.0,
         "sell_amount": 0.0,
         "buy_vol": 100.0,
         "sell_vol": 0.0,
-        "net_amount": 43000.0,
+        "net_amount": 42600.0,
         "net_vol": 100.0
       },
       {
-        "stock_id": "6932",
-        "stock_name": "水星生醫*",
-        "buy_amount": 13590.0,
+        "stock_id": "7899",
+        "stock_name": "景美",
+        "buy_amount": 38000.0,
         "sell_amount": 0.0,
-        "buy_vol": 2000.0,
+        "buy_vol": 100.0,
         "sell_vol": 0.0,
-        "net_amount": 13590.0,
-        "net_vol": 2000.0
+        "net_amount": 38000.0,
+        "net_vol": 100.0
       },
       {
-        "stock_id": "7915",
-        "stock_name": "廌家",
-        "buy_amount": 9625.0,
+        "stock_id": "2758",
+        "stock_name": "路易莎咖啡",
+        "buy_amount": 6040.0,
         "sell_amount": 0.0,
-        "buy_vol": 25.0,
+        "buy_vol": 100.0,
         "sell_vol": 0.0,
-        "net_amount": 9625.0,
-        "net_vol": 25.0
+        "net_amount": 6040.0,
+        "net_vol": 100.0
+      },
+      {
+        "stock_id": "3595",
+        "stock_name": "山太士",
+        "buy_amount": 2590.0,
+        "sell_amount": 0.0,
+        "buy_vol": 2.0,
+        "sell_vol": 0.0,
+        "net_amount": 2590.0,
+        "net_vol": 2.0
       },
       {
         "stock_id": "7928",
         "stock_name": "合聖科技*",
-        "buy_amount": 1272.0,
+        "buy_amount": 1202.0,
         "sell_amount": 0.0,
         "buy_vol": 4.0,
         "sell_vol": 0.0,
-        "net_amount": 1272.0,
+        "net_amount": 1202.0,
         "net_vol": 4.0
       },
       {
-        "stock_id": "7907",
-        "stock_name": "錸恩帕斯",
-        "buy_amount": 1150.0,
-        "sell_amount": 0.0,
-        "buy_vol": 5.0,
-        "sell_vol": 0.0,
-        "net_amount": 1150.0,
-        "net_vol": 5.0
+        "stock_id": "5297",
+        "stock_name": "廣化",
+        "buy_amount": 226.1,
+        "sell_amount": 4569700.0,
+        "buy_vol": 3.0,
+        "sell_vol": 60000.0,
+        "net_amount": -4569473.9,
+        "net_vol": -59997.0
       },
       {
-        "stock_id": "6682",
-        "stock_name": "華旭先進",
-        "buy_amount": 174.75,
-        "sell_amount": 0.0,
-        "buy_vol": 5.0,
-        "sell_vol": 0.0,
-        "net_amount": 174.75,
-        "net_vol": 5.0
+        "stock_id": "4573",
+        "stock_name": "高明鐵",
+        "buy_amount": 0.0,
+        "sell_amount": 2675000.0,
+        "buy_vol": 0.0,
+        "sell_vol": 4000.0,
+        "net_amount": -2675000.0,
+        "net_vol": -4000.0
+      },
+      {
+        "stock_id": "7930",
+        "stock_name": "威世波",
+        "buy_amount": 0.0,
+        "sell_amount": 447000.0,
+        "buy_vol": 0.0,
+        "sell_vol": 2000.0,
+        "net_amount": -447000.0,
+        "net_vol": -2000.0
+      },
+      {
+        "stock_id": "7815",
+        "stock_name": "新特",
+        "buy_amount": 0.0,
+        "sell_amount": 370000.0,
+        "buy_vol": 0.0,
+        "sell_vol": 1000.0,
+        "net_amount": -370000.0,
+        "net_vol": -1000.0
+      },
+      {
+        "stock_id": "6696",
+        "stock_name": "仁新*",
+        "buy_amount": 179050.0,
+        "sell_amount": 508500.0,
+        "buy_vol": 1050.0,
+        "sell_vol": 3000.0,
+        "net_amount": -329450.0,
+        "net_vol": -1950.0
+      },
+      {
+        "stock_id": "6622",
+        "stock_name": "百聿數碼",
+        "buy_amount": 0.0,
+        "sell_amount": 307300.0,
+        "buy_vol": 0.0,
+        "sell_vol": 41000.0,
+        "net_amount": -307300.0,
+        "net_vol": -41000.0
+      },
+      {
+        "stock_id": "7427",
+        "stock_name": "華上生醫",
+        "buy_amount": 0.0,
+        "sell_amount": 250900.0,
+        "buy_vol": 0.0,
+        "sell_vol": 4000.0,
+        "net_amount": -250900.0,
+        "net_vol": -4000.0
+      },
+      {
+        "stock_id": "3585",
+        "stock_name": "聯致",
+        "buy_amount": 517525.1,
+        "sell_amount": 738600.0,
+        "buy_vol": 7654.0,
+        "sell_vol": 11000.0,
+        "net_amount": -221074.9,
+        "net_vol": -3346.0
+      },
+      {
+        "stock_id": "7909",
+        "stock_name": "鈺祥",
+        "buy_amount": 0.0,
+        "sell_amount": 66500.0,
+        "buy_vol": 0.0,
+        "sell_vol": 100.0,
+        "net_amount": -66500.0,
+        "net_vol": -100.0
+      },
+      {
+        "stock_id": "6827",
+        "stock_name": "巨生醫",
+        "buy_amount": 0.0,
+        "sell_amount": 53900.0,
+        "buy_vol": 0.0,
+        "sell_vol": 4000.0,
+        "net_amount": -53900.0,
+        "net_vol": -4000.0
+      },
+      {
+        "stock_id": "7950",
+        "stock_name": "盛大資訊",
+        "buy_amount": 0.0,
+        "sell_amount": 48000.0,
+        "buy_vol": 0.0,
+        "sell_vol": 1000.0,
+        "net_amount": -48000.0,
+        "net_vol": -1000.0
+      },
+      {
+        "stock_id": "7947",
+        "stock_name": "補丁科",
+        "buy_amount": 35680.0,
+        "sell_amount": 53400.0,
+        "buy_vol": 40.0,
+        "sell_vol": 60.0,
+        "net_amount": -17720.0,
+        "net_vol": -20.0
+      },
+      {
+        "stock_id": "6586",
+        "stock_name": "醣基",
+        "buy_amount": 0.0,
+        "sell_amount": 11200.0,
+        "buy_vol": 0.0,
+        "sell_vol": 100.0,
+        "net_amount": -11200.0,
+        "net_vol": -100.0
       },
       {
         "stock_id": "1260",
@@ -4192,158 +4076,28 @@
         "sell_vol": 0.0,
         "net_amount": 0.0,
         "net_vol": 0.0
-      },
-      {
-        "stock_id": "7932",
-        "stock_name": "昱鐳應材",
-        "buy_amount": 0.0,
-        "sell_amount": 4012500.0,
-        "buy_vol": 0.0,
-        "sell_vol": 10000.0,
-        "net_amount": -4012500.0,
-        "net_vol": -10000.0
-      },
-      {
-        "stock_id": "5297",
-        "stock_name": "廣化",
-        "buy_amount": 80200.8,
-        "sell_amount": 1637750.0,
-        "buy_vol": 1005.0,
-        "sell_vol": 21100.0,
-        "net_amount": -1557549.2,
-        "net_vol": -20095.0
-      },
-      {
-        "stock_id": "7930",
-        "stock_name": "威世波",
-        "buy_amount": 0.0,
-        "sell_amount": 750000.0,
-        "buy_vol": 0.0,
-        "sell_vol": 3000.0,
-        "net_amount": -750000.0,
-        "net_vol": -3000.0
-      },
-      {
-        "stock_id": "7878",
-        "stock_name": "藥祇",
-        "buy_amount": 0.0,
-        "sell_amount": 561750.0,
-        "buy_vol": 0.0,
-        "sell_vol": 3500.0,
-        "net_amount": -561750.0,
-        "net_vol": -3500.0
-      },
-      {
-        "stock_id": "6891",
-        "stock_name": "樂迦再生",
-        "buy_amount": 98300.0,
-        "sell_amount": 483150.0,
-        "buy_vol": 2000.0,
-        "sell_vol": 10000.0,
-        "net_amount": -384850.0,
-        "net_vol": -8000.0
-      },
-      {
-        "stock_id": "8098",
-        "stock_name": "慶康科技",
-        "buy_amount": 0.0,
-        "sell_amount": 193600.0,
-        "buy_vol": 0.0,
-        "sell_vol": 400.0,
-        "net_amount": -193600.0,
-        "net_vol": -400.0
-      },
-      {
-        "stock_id": "6920",
-        "stock_name": "恆勁科技",
-        "buy_amount": 0.0,
-        "sell_amount": 186000.0,
-        "buy_vol": 0.0,
-        "sell_vol": 2000.0,
-        "net_amount": -186000.0,
-        "net_vol": -2000.0
-      },
-      {
-        "stock_id": "6696",
-        "stock_name": "仁新*",
-        "buy_amount": 258612.5,
-        "sell_amount": 368575.0,
-        "buy_vol": 1505.0,
-        "sell_vol": 2150.0,
-        "net_amount": -109962.5,
-        "net_vol": -645.0
-      },
-      {
-        "stock_id": "6648",
-        "stock_name": "斯其大",
-        "buy_amount": 0.0,
-        "sell_amount": 71500.0,
-        "buy_vol": 0.0,
-        "sell_vol": 5000.0,
-        "net_amount": -71500.0,
-        "net_vol": -5000.0
-      },
-      {
-        "stock_id": "6622",
-        "stock_name": "百聿數碼",
-        "buy_amount": 0.0,
-        "sell_amount": 36750.0,
-        "buy_vol": 0.0,
-        "sell_vol": 5000.0,
-        "net_amount": -36750.0,
-        "net_vol": -5000.0
-      },
-      {
-        "stock_id": "7858",
-        "stock_name": "芝普",
-        "buy_amount": 0.0,
-        "sell_amount": 17500.0,
-        "buy_vol": 0.0,
-        "sell_vol": 100.0,
-        "net_amount": -17500.0,
-        "net_vol": -100.0
-      },
-      {
-        "stock_id": "7947",
-        "stock_name": "補丁科",
-        "buy_amount": 17730.0,
-        "sell_amount": 35230.0,
-        "buy_vol": 20.0,
-        "sell_vol": 40.0,
-        "net_amount": -17500.0,
-        "net_vol": -20.0
-      },
-      {
-        "stock_id": "7729",
-        "stock_name": "仲恩生醫",
-        "buy_amount": 0.0,
-        "sell_amount": 13068.0,
-        "buy_vol": 0.0,
-        "sell_vol": 72.0,
-        "net_amount": -13068.0,
-        "net_vol": -72.0
-      },
-      {
-        "stock_id": "6586",
-        "stock_name": "醣基",
-        "buy_amount": 0.0,
-        "sell_amount": 11350.0,
-        "buy_vol": 0.0,
-        "sell_vol": 100.0,
-        "net_amount": -11350.0,
-        "net_vol": -100.0
       }
     ],
     "5": [
       {
-        "stock_id": "4573",
-        "stock_name": "高明鐵",
-        "buy_amount": 1419000.0,
+        "stock_id": "3644",
+        "stock_name": "凌嘉科",
+        "buy_amount": 6864600.0,
+        "sell_amount": 98900.0,
+        "buy_vol": 14100.0,
+        "sell_vol": 200.0,
+        "net_amount": 6765700.0,
+        "net_vol": 13900.0
+      },
+      {
+        "stock_id": "7669",
+        "stock_name": "碩正科技",
+        "buy_amount": 1621200.0,
         "sell_amount": 0.0,
-        "buy_vol": 2000.0,
+        "buy_vol": 2600.0,
         "sell_vol": 0.0,
-        "net_amount": 1419000.0,
-        "net_vol": 2000.0
+        "net_amount": 1621200.0,
+        "net_vol": 2600.0
       },
       {
         "stock_id": "7942",
@@ -4356,24 +4110,54 @@
         "net_vol": 1000.0
       },
       {
-        "stock_id": "7887",
-        "stock_name": "宇川精材",
-        "buy_amount": 485000.0,
+        "stock_id": "7956",
+        "stock_name": "啟賦",
+        "buy_amount": 810159.5,
         "sell_amount": 0.0,
-        "buy_vol": 3000.0,
+        "buy_vol": 3197.0,
         "sell_vol": 0.0,
-        "net_amount": 485000.0,
-        "net_vol": 3000.0
+        "net_amount": 810159.5,
+        "net_vol": 3197.0
       },
       {
-        "stock_id": "6610",
-        "stock_name": "安成生技",
-        "buy_amount": 610600.0,
-        "sell_amount": 153400.0,
-        "buy_vol": 13000.0,
-        "sell_vol": 3000.0,
-        "net_amount": 457200.0,
-        "net_vol": 10000.0
+        "stock_id": "7915",
+        "stock_name": "廌家",
+        "buy_amount": 802560.0,
+        "sell_amount": 0.0,
+        "buy_vol": 2130.0,
+        "sell_vol": 0.0,
+        "net_amount": 802560.0,
+        "net_vol": 2130.0
+      },
+      {
+        "stock_id": "6696",
+        "stock_name": "仁新*",
+        "buy_amount": 3627662.5,
+        "sell_amount": 2884225.0,
+        "buy_vol": 20555.0,
+        "sell_vol": 16750.0,
+        "net_amount": 743437.5,
+        "net_vol": 3805.0
+      },
+      {
+        "stock_id": "7754",
+        "stock_name": "安基生技",
+        "buy_amount": 2571600.0,
+        "sell_amount": 2016600.0,
+        "buy_vol": 31000.0,
+        "sell_vol": 26000.0,
+        "net_amount": 555000.0,
+        "net_vol": 5000.0
+      },
+      {
+        "stock_id": "8244",
+        "stock_name": "DIGITIMES",
+        "buy_amount": 416100.0,
+        "sell_amount": 0.0,
+        "buy_vol": 6100.0,
+        "sell_vol": 0.0,
+        "net_amount": 416100.0,
+        "net_vol": 6100.0
       },
       {
         "stock_id": "7762",
@@ -4386,14 +4170,14 @@
         "net_vol": 7000.0
       },
       {
-        "stock_id": "3585",
-        "stock_name": "聯致",
-        "buy_amount": 1495868.0,
-        "sell_amount": 1172600.0,
-        "buy_vol": 20864.0,
-        "sell_vol": 16000.0,
-        "net_amount": 323268.0,
-        "net_vol": 4864.0
+        "stock_id": "7955",
+        "stock_name": "車麗屋",
+        "buy_amount": 361000.0,
+        "sell_amount": 0.0,
+        "buy_vol": 2600.0,
+        "sell_vol": 0.0,
+        "net_amount": 361000.0,
+        "net_vol": 2600.0
       },
       {
         "stock_id": "6812",
@@ -4406,114 +4190,84 @@
         "net_vol": 4000.0
       },
       {
-        "stock_id": "7846",
-        "stock_name": "德揚",
-        "buy_amount": 260500.0,
+        "stock_id": "7887",
+        "stock_name": "宇川精材",
+        "buy_amount": 320000.0,
         "sell_amount": 0.0,
         "buy_vol": 2000.0,
         "sell_vol": 0.0,
-        "net_amount": 260500.0,
+        "net_amount": 320000.0,
         "net_vol": 2000.0
-      },
-      {
-        "stock_id": "7927",
-        "stock_name": "連距電機",
-        "buy_amount": 222000.0,
-        "sell_amount": 0.0,
-        "buy_vol": 1000.0,
-        "sell_vol": 0.0,
-        "net_amount": 222000.0,
-        "net_vol": 1000.0
-      },
-      {
-        "stock_id": "7832",
-        "stock_name": "智新生技*",
-        "buy_amount": 155500.0,
-        "sell_amount": 0.0,
-        "buy_vol": 10000.0,
-        "sell_vol": 0.0,
-        "net_amount": 155500.0,
-        "net_vol": 10000.0
-      },
-      {
-        "stock_id": "6682",
-        "stock_name": "華旭先進",
-        "buy_amount": 147774.75,
-        "sell_amount": 0.0,
-        "buy_vol": 4037.0,
-        "sell_vol": 0.0,
-        "net_amount": 147774.75,
-        "net_vol": 4037.0
       },
       {
         "stock_id": "7911",
         "stock_name": "阿波羅電力",
-        "buy_amount": 144000.0,
+        "buy_amount": 282000.0,
         "sell_amount": 0.0,
-        "buy_vol": 1000.0,
+        "buy_vol": 2000.0,
         "sell_vol": 0.0,
-        "net_amount": 144000.0,
-        "net_vol": 1000.0
+        "net_amount": 282000.0,
+        "net_vol": 2000.0
       },
       {
-        "stock_id": "3595",
-        "stock_name": "山太士",
-        "buy_amount": 285185.0,
-        "sell_amount": 144980.0,
-        "buy_vol": 203.0,
-        "sell_vol": 103.0,
-        "net_amount": 140205.0,
-        "net_vol": 100.0
+        "stock_id": "6610",
+        "stock_name": "安成生技",
+        "buy_amount": 356900.0,
+        "sell_amount": 153400.0,
+        "buy_vol": 7000.0,
+        "sell_vol": 3000.0,
+        "net_amount": 203500.0,
+        "net_vol": 4000.0
       },
       {
-        "stock_id": "6932",
-        "stock_name": "水星生醫*",
-        "buy_amount": 134360.0,
-        "sell_amount": 12800.0,
-        "buy_vol": 20000.0,
-        "sell_vol": 2000.0,
-        "net_amount": 121560.0,
-        "net_vol": 18000.0
-      },
-      {
-        "stock_id": "7920",
-        "stock_name": "瀚陽*",
-        "buy_amount": 97040.0,
-        "sell_amount": 0.0,
-        "buy_vol": 11000.0,
-        "sell_vol": 0.0,
-        "net_amount": 97040.0,
-        "net_vol": 11000.0
+        "stock_id": "6891",
+        "stock_name": "樂迦再生",
+        "buy_amount": 654300.0,
+        "sell_amount": 483150.0,
+        "buy_vol": 14000.0,
+        "sell_vol": 10000.0,
+        "net_amount": 171150.0,
+        "net_vol": 4000.0
       },
       {
         "stock_id": "7932",
         "stock_name": "昱鐳應材",
         "buy_amount": 4210.0,
-        "sell_amount": 25036175.0,
+        "sell_amount": 22722675.0,
         "buy_vol": 10.0,
-        "sell_vol": 59350.0,
-        "net_amount": -25031965.0,
-        "net_vol": -59340.0
+        "sell_vol": 54350.0,
+        "net_amount": -22718465.0,
+        "net_vol": -54340.0
       },
       {
         "stock_id": "7947",
         "stock_name": "補丁科",
-        "buy_amount": 366160.0,
-        "sell_amount": 23502680.0,
-        "buy_vol": 420.0,
-        "sell_vol": 27170.0,
-        "net_amount": -23136520.0,
-        "net_vol": -26750.0
+        "buy_amount": 401840.0,
+        "sell_amount": 15717610.0,
+        "buy_vol": 460.0,
+        "sell_vol": 18130.0,
+        "net_amount": -15315770.0,
+        "net_vol": -17670.0
       },
       {
         "stock_id": "6920",
         "stock_name": "恆勁科技",
-        "buy_amount": 3554000.0,
-        "sell_amount": 14536400.0,
-        "buy_vol": 35000.0,
-        "sell_vol": 146000.0,
-        "net_amount": -10982400.0,
-        "net_vol": -111000.0
+        "buy_amount": 2001500.0,
+        "sell_amount": 10441400.0,
+        "buy_vol": 20000.0,
+        "sell_vol": 106000.0,
+        "net_amount": -8439900.0,
+        "net_vol": -86000.0
+      },
+      {
+        "stock_id": "5297",
+        "stock_name": "廣化",
+        "buy_amount": 923601.3,
+        "sell_amount": 9314750.0,
+        "buy_vol": 11020.0,
+        "sell_vol": 121100.0,
+        "net_amount": -8391148.7,
+        "net_vol": -110080.0
       },
       {
         "stock_id": "7848",
@@ -4526,64 +4280,24 @@
         "net_vol": -11000.0
       },
       {
-        "stock_id": "7815",
-        "stock_name": "新特",
-        "buy_amount": 1965500.0,
-        "sell_amount": 4129500.0,
-        "buy_vol": 5000.0,
-        "sell_vol": 10000.0,
-        "net_amount": -2164000.0,
-        "net_vol": -5000.0
-      },
-      {
         "stock_id": "7930",
         "stock_name": "威世波",
         "buy_amount": 0.0,
-        "sell_amount": 2110200.0,
+        "sell_amount": 2557200.0,
         "buy_vol": 0.0,
-        "sell_vol": 8100.0,
-        "net_amount": -2110200.0,
-        "net_vol": -8100.0
+        "sell_vol": 10100.0,
+        "net_amount": -2557200.0,
+        "net_vol": -10100.0
       },
       {
-        "stock_id": "7878",
-        "stock_name": "藥祇",
-        "buy_amount": 0.0,
-        "sell_amount": 1627250.0,
-        "buy_vol": 0.0,
-        "sell_vol": 10000.0,
-        "net_amount": -1627250.0,
-        "net_vol": -10000.0
-      },
-      {
-        "stock_id": "8098",
-        "stock_name": "慶康科技",
-        "buy_amount": 0.0,
-        "sell_amount": 1404600.0,
-        "buy_vol": 0.0,
-        "sell_vol": 2400.0,
-        "net_amount": -1404600.0,
-        "net_vol": -2400.0
-      },
-      {
-        "stock_id": "7754",
-        "stock_name": "安基生技",
-        "buy_amount": 3325300.0,
-        "sell_amount": 4508100.0,
-        "buy_vol": 40000.0,
-        "sell_vol": 56000.0,
-        "net_amount": -1182800.0,
-        "net_vol": -16000.0
-      },
-      {
-        "stock_id": "6696",
-        "stock_name": "仁新*",
-        "buy_amount": 3637862.5,
-        "sell_amount": 4627725.0,
-        "buy_vol": 20605.0,
-        "sell_vol": 26750.0,
-        "net_amount": -989862.5,
-        "net_vol": -6145.0
+        "stock_id": "4573",
+        "stock_name": "高明鐵",
+        "buy_amount": 1419000.0,
+        "sell_amount": 2675000.0,
+        "buy_vol": 2000.0,
+        "sell_vol": 4000.0,
+        "net_amount": -1256000.0,
+        "net_vol": -2000.0
       },
       {
         "stock_id": "7729",
@@ -4596,34 +4310,14 @@
         "net_vol": -4922.0
       },
       {
-        "stock_id": "5297",
-        "stock_name": "廣化",
-        "buy_amount": 4390077.0,
-        "sell_amount": 5174550.0,
-        "buy_vol": 51030.0,
-        "sell_vol": 66100.0,
-        "net_amount": -784473.0,
-        "net_vol": -15070.0
-      },
-      {
-        "stock_id": "7866",
-        "stock_name": "丹立",
-        "buy_amount": 0.0,
-        "sell_amount": 756000.0,
-        "buy_vol": 0.0,
-        "sell_vol": 5000.0,
-        "net_amount": -756000.0,
-        "net_vol": -5000.0
-      },
-      {
-        "stock_id": "7427",
-        "stock_name": "華上生醫",
-        "buy_amount": 0.0,
-        "sell_amount": 687500.0,
-        "buy_vol": 0.0,
-        "sell_vol": 10000.0,
-        "net_amount": -687500.0,
-        "net_vol": -10000.0
+        "stock_id": "7815",
+        "stock_name": "新特",
+        "buy_amount": 1965500.0,
+        "sell_amount": 2778000.0,
+        "buy_vol": 5000.0,
+        "sell_vol": 7000.0,
+        "net_amount": -812500.0,
+        "net_vol": -2000.0
       },
       {
         "stock_id": "6493",
@@ -4634,28 +4328,88 @@
         "sell_vol": 19000.0,
         "net_amount": -646000.0,
         "net_vol": -19000.0
+      },
+      {
+        "stock_id": "7866",
+        "stock_name": "丹立",
+        "buy_amount": 0.0,
+        "sell_amount": 600000.0,
+        "buy_vol": 0.0,
+        "sell_vol": 4000.0,
+        "net_amount": -600000.0,
+        "net_vol": -4000.0
+      },
+      {
+        "stock_id": "7878",
+        "stock_name": "藥祇",
+        "buy_amount": 0.0,
+        "sell_amount": 561750.0,
+        "buy_vol": 0.0,
+        "sell_vol": 3500.0,
+        "net_amount": -561750.0,
+        "net_vol": -3500.0
+      },
+      {
+        "stock_id": "7427",
+        "stock_name": "華上生醫",
+        "buy_amount": 0.0,
+        "sell_amount": 452500.0,
+        "buy_vol": 0.0,
+        "sell_vol": 7000.0,
+        "net_amount": -452500.0,
+        "net_vol": -7000.0
+      },
+      {
+        "stock_id": "6622",
+        "stock_name": "百聿數碼",
+        "buy_amount": 21.23,
+        "sell_amount": 344050.0,
+        "buy_vol": 3.0,
+        "sell_vol": 46000.0,
+        "net_amount": -344028.77,
+        "net_vol": -45997.0
+      },
+      {
+        "stock_id": "6586",
+        "stock_name": "醣基",
+        "buy_amount": 0.0,
+        "sell_amount": 285782.0,
+        "buy_vol": 0.0,
+        "sell_vol": 2502.0,
+        "net_amount": -285782.0,
+        "net_vol": -2502.0
       }
     ],
     "10": [
       {
-        "stock_id": "7815",
-        "stock_name": "新特",
-        "buy_amount": 13331000.0,
-        "sell_amount": 6214500.0,
-        "buy_vol": 32000.0,
-        "sell_vol": 15000.0,
-        "net_amount": 7116500.0,
-        "net_vol": 17000.0
+        "stock_id": "3644",
+        "stock_name": "凌嘉科",
+        "buy_amount": 6902500.0,
+        "sell_amount": 98900.0,
+        "buy_vol": 14200.0,
+        "sell_vol": 200.0,
+        "net_amount": 6803600.0,
+        "net_vol": 14000.0
       },
       {
-        "stock_id": "5297",
-        "stock_name": "廣化",
-        "buy_amount": 11920845.5,
-        "sell_amount": 6693650.0,
-        "buy_vol": 146095.0,
-        "sell_vol": 86100.0,
-        "net_amount": 5227195.5,
-        "net_vol": 59995.0
+        "stock_id": "7815",
+        "stock_name": "新特",
+        "buy_amount": 12926500.0,
+        "sell_amount": 6584500.0,
+        "buy_vol": 31000.0,
+        "sell_vol": 16000.0,
+        "net_amount": 6342000.0,
+        "net_vol": 15000.0
+      },
+      {
+        "stock_id": "7669",
+        "stock_name": "碩正科技",
+        "buy_amount": 5531200.0,
+        "sell_amount": 0.0,
+        "buy_vol": 8600.0,
+        "sell_vol": 0.0,
+        "net_amount": 5531200.0,
+        "net_vol": 8600.0
       },
       {
         "stock_id": "7861",
@@ -4668,34 +4422,14 @@
         "net_vol": 4000.0
       },
       {
-        "stock_id": "7669",
-        "stock_name": "碩正科技",
-        "buy_amount": 3910000.0,
-        "sell_amount": 0.0,
-        "buy_vol": 6000.0,
-        "sell_vol": 0.0,
-        "net_amount": 3910000.0,
-        "net_vol": 6000.0
-      },
-      {
-        "stock_id": "4573",
-        "stock_name": "高明鐵",
-        "buy_amount": 2119000.0,
-        "sell_amount": 0.0,
-        "buy_vol": 3000.0,
-        "sell_vol": 0.0,
-        "net_amount": 2119000.0,
-        "net_vol": 3000.0
-      },
-      {
         "stock_id": "6610",
         "stock_name": "安成生技",
-        "buy_amount": 1301100.0,
+        "buy_amount": 1348400.0,
         "sell_amount": 153400.0,
-        "buy_vol": 28000.0,
+        "buy_vol": 29000.0,
         "sell_vol": 3000.0,
-        "net_amount": 1147700.0,
-        "net_vol": 25000.0
+        "net_amount": 1195000.0,
+        "net_vol": 26000.0
       },
       {
         "stock_id": "7887",
@@ -4708,6 +4442,36 @@
         "net_vol": 7000.0
       },
       {
+        "stock_id": "7915",
+        "stock_name": "廌家",
+        "buy_amount": 885930.0,
+        "sell_amount": 0.0,
+        "buy_vol": 2320.0,
+        "sell_vol": 0.0,
+        "net_amount": 885930.0,
+        "net_vol": 2320.0
+      },
+      {
+        "stock_id": "7942",
+        "stock_name": "東佑達",
+        "buy_amount": 911750.0,
+        "sell_amount": 63000.0,
+        "buy_vol": 1100.0,
+        "sell_vol": 100.0,
+        "net_amount": 848750.0,
+        "net_vol": 1000.0
+      },
+      {
+        "stock_id": "7956",
+        "stock_name": "啟賦",
+        "buy_amount": 810159.5,
+        "sell_amount": 0.0,
+        "buy_vol": 3197.0,
+        "sell_vol": 0.0,
+        "net_amount": 810159.5,
+        "net_vol": 3197.0
+      },
+      {
         "stock_id": "7801",
         "stock_name": "華芸科技",
         "buy_amount": 676500.0,
@@ -4718,23 +4482,23 @@
         "net_vol": 6000.0
       },
       {
-        "stock_id": "7942",
-        "stock_name": "東佑達",
-        "buy_amount": 911750.0,
-        "sell_amount": 248650.0,
-        "buy_vol": 1100.0,
-        "sell_vol": 400.0,
-        "net_amount": 663100.0,
-        "net_vol": 700.0
+        "stock_id": "5297",
+        "stock_name": "廣化",
+        "buy_amount": 11920789.7,
+        "sell_amount": 11263350.0,
+        "buy_vol": 146094.0,
+        "sell_vol": 146100.0,
+        "net_amount": 657439.6999999993,
+        "net_vol": -6.0
       },
       {
         "stock_id": "7911",
         "stock_name": "阿波羅電力",
-        "buy_amount": 711500.0,
+        "buy_amount": 734500.0,
         "sell_amount": 121000.0,
         "buy_vol": 5000.0,
         "sell_vol": 1000.0,
-        "net_amount": 590500.0,
+        "net_amount": 613500.0,
         "net_vol": 4000.0
       },
       {
@@ -4748,6 +4512,16 @@
         "net_vol": 10000.0
       },
       {
+        "stock_id": "8244",
+        "stock_name": "DIGITIMES",
+        "buy_amount": 416100.0,
+        "sell_amount": 0.0,
+        "buy_vol": 6100.0,
+        "sell_vol": 0.0,
+        "net_amount": 416100.0,
+        "net_vol": 6100.0
+      },
+      {
         "stock_id": "7762",
         "stock_name": "吉晟生",
         "buy_amount": 391200.0,
@@ -4758,44 +4532,14 @@
         "net_vol": 7000.0
       },
       {
-        "stock_id": "7846",
-        "stock_name": "德揚",
-        "buy_amount": 361000.0,
-        "sell_amount": 0.0,
-        "buy_vol": 3000.0,
-        "sell_vol": 0.0,
-        "net_amount": 361000.0,
-        "net_vol": 3000.0
-      },
-      {
-        "stock_id": "6812",
-        "stock_name": "梭特",
-        "buy_amount": 321000.0,
-        "sell_amount": 0.0,
-        "buy_vol": 4000.0,
-        "sell_vol": 0.0,
-        "net_amount": 321000.0,
-        "net_vol": 4000.0
-      },
-      {
-        "stock_id": "3585",
-        "stock_name": "聯致",
-        "buy_amount": 2043094.35,
-        "sell_amount": 1759631.0,
-        "buy_vol": 31989.0,
-        "sell_vol": 27801.0,
-        "net_amount": 283463.3500000001,
-        "net_vol": 4188.0
-      },
-      {
         "stock_id": "7947",
         "stock_name": "補丁科",
-        "buy_amount": 3609990.0,
-        "sell_amount": 56276680.0,
-        "buy_vol": 4005.0,
-        "sell_vol": 64170.0,
-        "net_amount": -52666690.0,
-        "net_vol": -60165.0
+        "buy_amount": 1275270.0,
+        "sell_amount": 48228080.0,
+        "buy_vol": 1445.0,
+        "sell_vol": 55230.0,
+        "net_amount": -46952810.0,
+        "net_vol": -53785.0
       },
       {
         "stock_id": "7932",
@@ -4810,22 +4554,22 @@
       {
         "stock_id": "7909",
         "stock_name": "鈺祥",
-        "buy_amount": 67800.0,
-        "sell_amount": 19800000.0,
-        "buy_vol": 100.0,
-        "sell_vol": 28000.0,
-        "net_amount": -19732200.0,
-        "net_vol": -27900.0
+        "buy_amount": 0.0,
+        "sell_amount": 19866500.0,
+        "buy_vol": 0.0,
+        "sell_vol": 28100.0,
+        "net_amount": -19866500.0,
+        "net_vol": -28100.0
       },
       {
         "stock_id": "3595",
         "stock_name": "山太士",
-        "buy_amount": 2968630.0,
+        "buy_amount": 2803650.0,
         "sell_amount": 12014980.0,
-        "buy_vol": 2049.0,
+        "buy_vol": 1940.0,
         "sell_vol": 8103.0,
-        "net_amount": -9046350.0,
-        "net_vol": -6054.0
+        "net_amount": -9211330.0,
+        "net_vol": -6163.0
       },
       {
         "stock_id": "7848",
@@ -4838,24 +4582,34 @@
         "net_vol": -11000.0
       },
       {
+        "stock_id": "7924",
+        "stock_name": "TLC-KY",
+        "buy_amount": 162700.0,
+        "sell_amount": 4779300.0,
+        "buy_vol": 400.0,
+        "sell_vol": 10200.0,
+        "net_amount": -4616600.0,
+        "net_vol": -9800.0
+      },
+      {
         "stock_id": "7930",
         "stock_name": "威世波",
         "buy_amount": 0.0,
-        "sell_amount": 4840200.0,
+        "sell_amount": 3912200.0,
         "buy_vol": 0.0,
-        "sell_vol": 18100.0,
-        "net_amount": -4840200.0,
-        "net_vol": -18100.0
+        "sell_vol": 15100.0,
+        "net_amount": -3912200.0,
+        "net_vol": -15100.0
       },
       {
-        "stock_id": "7924",
-        "stock_name": "TLC-KY",
-        "buy_amount": 120100.0,
-        "sell_amount": 4779300.0,
-        "buy_vol": 300.0,
-        "sell_vol": 10200.0,
-        "net_amount": -4659200.0,
-        "net_vol": -9900.0
+        "stock_id": "6696",
+        "stock_name": "仁新*",
+        "buy_amount": 4360412.5,
+        "sell_amount": 8189839.0,
+        "buy_vol": 24655.0,
+        "sell_vol": 46344.0,
+        "net_amount": -3829426.5,
+        "net_vol": -21689.0
       },
       {
         "stock_id": "7866",
@@ -4868,54 +4622,54 @@
         "net_vol": -19000.0
       },
       {
-        "stock_id": "6696",
-        "stock_name": "仁新*",
-        "buy_amount": 4834462.5,
-        "sell_amount": 7681339.0,
-        "buy_vol": 27005.0,
-        "sell_vol": 43344.0,
-        "net_amount": -2846876.5,
-        "net_vol": -16339.0
+        "stock_id": "7878",
+        "stock_name": "藥祇",
+        "buy_amount": 83800.0,
+        "sell_amount": 1627250.0,
+        "buy_vol": 500.0,
+        "sell_vol": 10000.0,
+        "net_amount": -1543450.0,
+        "net_vol": -9500.0
+      },
+      {
+        "stock_id": "4573",
+        "stock_name": "高明鐵",
+        "buy_amount": 1419000.0,
+        "sell_amount": 2675000.0,
+        "buy_vol": 2000.0,
+        "sell_vol": 4000.0,
+        "net_amount": -1256000.0,
+        "net_vol": -2000.0
       },
       {
         "stock_id": "7754",
         "stock_name": "安基生技",
         "buy_amount": 5588300.0,
-        "sell_amount": 7598300.0,
+        "sell_amount": 6672000.0,
         "buy_vol": 70000.0,
-        "sell_vol": 99000.0,
-        "net_amount": -2010000.0,
-        "net_vol": -29000.0
-      },
-      {
-        "stock_id": "7878",
-        "stock_name": "藥祇",
-        "buy_amount": 100900.0,
-        "sell_amount": 1644900.0,
-        "buy_vol": 600.0,
-        "sell_vol": 10100.0,
-        "net_amount": -1544000.0,
-        "net_vol": -9500.0
-      },
-      {
-        "stock_id": "7729",
-        "stock_name": "仲恩生醫",
-        "buy_amount": 61000.0,
-        "sell_amount": 968068.0,
-        "buy_vol": 312.0,
-        "sell_vol": 5072.0,
-        "net_amount": -907068.0,
-        "net_vol": -4760.0
+        "sell_vol": 86000.0,
+        "net_amount": -1083700.0,
+        "net_vol": -16000.0
       },
       {
         "stock_id": "7427",
         "stock_name": "華上生醫",
         "buy_amount": 0.0,
-        "sell_amount": 687500.0,
+        "sell_amount": 938400.0,
         "buy_vol": 0.0,
-        "sell_vol": 10000.0,
-        "net_amount": -687500.0,
-        "net_vol": -10000.0
+        "sell_vol": 14000.0,
+        "net_amount": -938400.0,
+        "net_vol": -14000.0
+      },
+      {
+        "stock_id": "7729",
+        "stock_name": "仲恩生醫",
+        "buy_amount": 42200.0,
+        "sell_amount": 968068.0,
+        "buy_vol": 212.0,
+        "sell_vol": 5072.0,
+        "net_amount": -925868.0,
+        "net_vol": -4860.0
       },
       {
         "stock_id": "6467",
@@ -4926,58 +4680,68 @@
         "sell_vol": 3000.0,
         "net_amount": -652500.0,
         "net_vol": -2900.0
-      },
-      {
-        "stock_id": "6493",
-        "stock_name": "雷虎生",
-        "buy_amount": 0.0,
-        "sell_amount": 646000.0,
-        "buy_vol": 0.0,
-        "sell_vol": 19000.0,
-        "net_amount": -646000.0,
-        "net_vol": -19000.0
       }
     ],
     "20": [
       {
         "stock_id": "7856",
         "stock_name": "漢測",
-        "buy_amount": 166067825.0,
-        "sell_amount": 70020650.0,
-        "buy_vol": 34279.0,
-        "sell_vol": 14245.0,
-        "net_amount": 96047175.0,
-        "net_vol": 20034.0
+        "buy_amount": 150772735.0,
+        "sell_amount": 69918750.0,
+        "buy_vol": 31278.0,
+        "sell_vol": 14225.0,
+        "net_amount": 80853985.0,
+        "net_vol": 17053.0
       },
       {
         "stock_id": "7815",
         "stock_name": "新特",
         "buy_amount": 45676000.0,
-        "sell_amount": 6214500.0,
+        "sell_amount": 6584500.0,
         "buy_vol": 131000.0,
-        "sell_vol": 15000.0,
-        "net_amount": 39461500.0,
-        "net_vol": 116000.0
+        "sell_vol": 16000.0,
+        "net_amount": 39091500.0,
+        "net_vol": 115000.0
       },
       {
         "stock_id": "3595",
         "stock_name": "山太士",
-        "buy_amount": 46366595.0,
+        "buy_amount": 46361510.0,
         "sell_amount": 12965400.0,
-        "buy_vol": 34268.0,
+        "buy_vol": 34265.0,
         "sell_vol": 8707.0,
-        "net_amount": 33401195.0,
-        "net_vol": 25561.0
+        "net_amount": 33396110.0,
+        "net_vol": 25558.0
       },
       {
-        "stock_id": "5297",
-        "stock_name": "廣化",
-        "buy_amount": 12065727.0,
-        "sell_amount": 6700710.0,
-        "buy_vol": 148113.0,
-        "sell_vol": 86200.0,
-        "net_amount": 5365017.0,
-        "net_vol": 61913.0
+        "stock_id": "3644",
+        "stock_name": "凌嘉科",
+        "buy_amount": 6902500.0,
+        "sell_amount": 98900.0,
+        "buy_vol": 14200.0,
+        "sell_vol": 200.0,
+        "net_amount": 6803600.0,
+        "net_vol": 14000.0
+      },
+      {
+        "stock_id": "6920",
+        "stock_name": "恆勁科技",
+        "buy_amount": 22269400.0,
+        "sell_amount": 16051200.0,
+        "buy_vol": 219000.0,
+        "sell_vol": 161500.0,
+        "net_amount": 6218200.0,
+        "net_vol": 57500.0
+      },
+      {
+        "stock_id": "7669",
+        "stock_name": "碩正科技",
+        "buy_amount": 5531200.0,
+        "sell_amount": 0.0,
+        "buy_vol": 8600.0,
+        "sell_vol": 0.0,
+        "net_amount": 5531200.0,
+        "net_vol": 8600.0
       },
       {
         "stock_id": "7861",
@@ -4990,56 +4754,6 @@
         "net_vol": 4030.0
       },
       {
-        "stock_id": "7669",
-        "stock_name": "碩正科技",
-        "buy_amount": 3910000.0,
-        "sell_amount": 0.0,
-        "buy_vol": 6000.0,
-        "sell_vol": 0.0,
-        "net_amount": 3910000.0,
-        "net_vol": 6000.0
-      },
-      {
-        "stock_id": "6920",
-        "stock_name": "恆勁科技",
-        "buy_amount": 22269400.0,
-        "sell_amount": 18962200.0,
-        "buy_vol": 219000.0,
-        "sell_vol": 191500.0,
-        "net_amount": 3307200.0,
-        "net_vol": 27500.0
-      },
-      {
-        "stock_id": "6826",
-        "stock_name": "和淞",
-        "buy_amount": 2988000.0,
-        "sell_amount": 0.0,
-        "buy_vol": 7000.0,
-        "sell_vol": 0.0,
-        "net_amount": 2988000.0,
-        "net_vol": 7000.0
-      },
-      {
-        "stock_id": "7934",
-        "stock_name": "鋒霈環境科技",
-        "buy_amount": 11972509.0,
-        "sell_amount": 9015755.5,
-        "buy_vol": 34093.0,
-        "sell_vol": 20893.0,
-        "net_amount": 2956753.5,
-        "net_vol": 13200.0
-      },
-      {
-        "stock_id": "4573",
-        "stock_name": "高明鐵",
-        "buy_amount": 4455900.0,
-        "sell_amount": 1851900.0,
-        "buy_vol": 6800.0,
-        "sell_vol": 3100.0,
-        "net_amount": 2604000.0,
-        "net_vol": 3700.0
-      },
-      {
         "stock_id": "7942",
         "stock_name": "東佑達",
         "buy_amount": 3275150.0,
@@ -5048,6 +4762,16 @@
         "sell_vol": 1600.0,
         "net_amount": 2350300.0,
         "net_vol": 4000.0
+      },
+      {
+        "stock_id": "6826",
+        "stock_name": "和淞",
+        "buy_amount": 2106000.0,
+        "sell_amount": 0.0,
+        "buy_vol": 5000.0,
+        "sell_vol": 0.0,
+        "net_amount": 2106000.0,
+        "net_vol": 5000.0
       },
       {
         "stock_id": "6849",
@@ -5062,12 +4786,32 @@
       {
         "stock_id": "6610",
         "stock_name": "安成生技",
-        "buy_amount": 1550300.0,
+        "buy_amount": 1597600.0,
         "sell_amount": 233350.0,
-        "buy_vol": 34000.0,
+        "buy_vol": 35000.0,
         "sell_vol": 5000.0,
-        "net_amount": 1316950.0,
-        "net_vol": 29000.0
+        "net_amount": 1364250.0,
+        "net_vol": 30000.0
+      },
+      {
+        "stock_id": "7887",
+        "stock_name": "宇川精材",
+        "buy_amount": 5370500.0,
+        "sell_amount": 4457000.0,
+        "buy_vol": 34000.0,
+        "sell_vol": 30000.0,
+        "net_amount": 913500.0,
+        "net_vol": 4000.0
+      },
+      {
+        "stock_id": "7915",
+        "stock_name": "廌家",
+        "buy_amount": 885930.0,
+        "sell_amount": 0.0,
+        "buy_vol": 2320.0,
+        "sell_vol": 0.0,
+        "net_amount": 885930.0,
+        "net_vol": 2320.0
       },
       {
         "stock_id": "6467",
@@ -5080,54 +4824,54 @@
         "net_vol": 3200.0
       },
       {
-        "stock_id": "7801",
-        "stock_name": "華芸科技",
-        "buy_amount": 676500.0,
+        "stock_id": "7956",
+        "stock_name": "啟賦",
+        "buy_amount": 810159.5,
         "sell_amount": 0.0,
-        "buy_vol": 6000.0,
+        "buy_vol": 3197.0,
         "sell_vol": 0.0,
-        "net_amount": 676500.0,
-        "net_vol": 6000.0
+        "net_amount": 810159.5,
+        "net_vol": 3197.0
       },
       {
         "stock_id": "7947",
         "stock_name": "補丁科",
-        "buy_amount": 15196400.0,
-        "sell_amount": 87964238.0,
-        "buy_vol": 14926.0,
-        "sell_vol": 99551.0,
-        "net_amount": -72767838.0,
-        "net_vol": -84625.0
+        "buy_amount": 15232080.0,
+        "sell_amount": 88017638.0,
+        "buy_vol": 14966.0,
+        "sell_vol": 99611.0,
+        "net_amount": -72785558.0,
+        "net_vol": -84645.0
       },
       {
         "stock_id": "7909",
         "stock_name": "鈺祥",
         "buy_amount": 67800.0,
-        "sell_amount": 27470000.0,
+        "sell_amount": 27536500.0,
         "buy_vol": 100.0,
-        "sell_vol": 40000.0,
-        "net_amount": -27402200.0,
-        "net_vol": -39900.0
+        "sell_vol": 40100.0,
+        "net_amount": -27468700.0,
+        "net_vol": -40000.0
       },
       {
         "stock_id": "7930",
         "stock_name": "威世波",
-        "buy_amount": 355300.0,
-        "sell_amount": 22444950.0,
-        "buy_vol": 1200.0,
-        "sell_vol": 82100.0,
-        "net_amount": -22089650.0,
-        "net_vol": -80900.0
+        "buy_amount": 325800.0,
+        "sell_amount": 21422950.0,
+        "buy_vol": 1100.0,
+        "sell_vol": 79100.0,
+        "net_amount": -21097150.0,
+        "net_vol": -78000.0
       },
       {
         "stock_id": "7932",
         "stock_name": "昱鐳應材",
         "buy_amount": 21742145.0,
-        "sell_amount": 42818175.0,
+        "sell_amount": 42790675.0,
         "buy_vol": 50309.0,
-        "sell_vol": 101400.0,
-        "net_amount": -21076030.0,
-        "net_vol": -51091.0
+        "sell_vol": 101350.0,
+        "net_amount": -21048530.0,
+        "net_vol": -51041.0
       },
       {
         "stock_id": "7917",
@@ -5142,12 +4886,12 @@
       {
         "stock_id": "6696",
         "stock_name": "仁新*",
-        "buy_amount": 14332208.5,
-        "sell_amount": 20022188.0,
-        "buy_vol": 82849.0,
-        "sell_vol": 112046.0,
-        "net_amount": -5689979.5,
-        "net_vol": -29197.0
+        "buy_amount": 14347758.5,
+        "sell_amount": 20530688.0,
+        "buy_vol": 82899.0,
+        "sell_vol": 115046.0,
+        "net_amount": -6182929.5,
+        "net_vol": -32147.0
       },
       {
         "stock_id": "7848",
@@ -5162,12 +4906,12 @@
       {
         "stock_id": "7924",
         "stock_name": "TLC-KY",
-        "buy_amount": 169955.0,
+        "buy_amount": 212555.0,
         "sell_amount": 4810650.0,
-        "buy_vol": 470.0,
+        "buy_vol": 570.0,
         "sell_vol": 10310.0,
-        "net_amount": -4640695.0,
-        "net_vol": -9840.0
+        "net_amount": -4598095.0,
+        "net_vol": -9740.0
       },
       {
         "stock_id": "7866",
@@ -5180,14 +4924,14 @@
         "net_vol": -28000.0
       },
       {
-        "stock_id": "7729",
-        "stock_name": "仲恩生醫",
-        "buy_amount": 1451175.0,
-        "sell_amount": 4936568.0,
-        "buy_vol": 8022.0,
-        "sell_vol": 36072.0,
-        "net_amount": -3485393.0,
-        "net_vol": -28050.0
+        "stock_id": "7934",
+        "stock_name": "鋒霈環境科技",
+        "buy_amount": 5488100.0,
+        "sell_amount": 9015755.5,
+        "buy_vol": 10900.0,
+        "sell_vol": 20893.0,
+        "net_amount": -3527655.5,
+        "net_vol": -9993.0
       },
       {
         "stock_id": "7878",
@@ -5200,6 +4944,26 @@
         "net_vol": -10000.0
       },
       {
+        "stock_id": "7427",
+        "stock_name": "華上生醫",
+        "buy_amount": 0.0,
+        "sell_amount": 1083000.0,
+        "buy_vol": 0.0,
+        "sell_vol": 16000.0,
+        "net_amount": -1083000.0,
+        "net_vol": -16000.0
+      },
+      {
+        "stock_id": "7729",
+        "stock_name": "仲恩生醫",
+        "buy_amount": 1301475.0,
+        "sell_amount": 2330568.0,
+        "buy_vol": 6822.0,
+        "sell_vol": 15072.0,
+        "net_amount": -1029093.0,
+        "net_vol": -8250.0
+      },
+      {
         "stock_id": "6977",
         "stock_name": "聯純",
         "buy_amount": 0.0,
@@ -5210,34 +4974,14 @@
         "net_vol": -4000.0
       },
       {
-        "stock_id": "7427",
-        "stock_name": "華上生醫",
-        "buy_amount": 0.0,
-        "sell_amount": 832100.0,
-        "buy_vol": 0.0,
-        "sell_vol": 12000.0,
-        "net_amount": -832100.0,
-        "net_vol": -12000.0
-      },
-      {
-        "stock_id": "6493",
-        "stock_name": "雷虎生",
-        "buy_amount": 0.0,
-        "sell_amount": 646000.0,
-        "buy_vol": 0.0,
-        "sell_vol": 19000.0,
-        "net_amount": -646000.0,
-        "net_vol": -19000.0
-      },
-      {
-        "stock_id": "7415",
-        "stock_name": "元澄半導體",
-        "buy_amount": 3661500.0,
-        "sell_amount": 4015325.0,
-        "buy_vol": 8000.0,
-        "sell_vol": 9280.0,
-        "net_amount": -353825.0,
-        "net_vol": -1280.0
+        "stock_id": "4573",
+        "stock_name": "高明鐵",
+        "buy_amount": 3836900.0,
+        "sell_amount": 4526900.0,
+        "buy_vol": 5800.0,
+        "sell_vol": 7100.0,
+        "net_amount": -690000.0,
+        "net_vol": -1300.0
       }
     ]
   },
